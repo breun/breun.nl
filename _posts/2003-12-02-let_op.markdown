@@ -1,9 +1,0 @@
----
-layout: post
-title: Let op!
-date: '2003-12-02 02:22:59 +0100'
-mt_id: 542
-categories:
-- concerten
----
-Woensdag 31 maart 2004 speelt <a href="http://www.belleandsebastian.co.uk/">Belle & Sebastian</a> in <a href="http://www.vredenburg.nl/">Vredenburg</a>! Kaartjes gaan 2 december in de voorverkoop. Kost 29 euro, maar dan heb je in maart 2004 waarschijnlijk ook wat.
