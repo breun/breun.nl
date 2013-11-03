@@ -8,4 +8,4 @@ categories:
 ---
 Maak jezelf na in de <a href="http://www.planearium2.de/flash/spstudio.html">South Park Studio</a>!
 
-<img alt="South Park Studio breun" src="/images/southparkstudio1.png" width="378" height="378" />
+<img alt="South Park Studio breun" src="{{ site.url }}/images/southparkstudio1.png" width="378" height="378" />

@@ -6,7 +6,7 @@ mt_id: 657
 categories:
 - computers
 ---
-<img src="/images/switch_to_linux.png" alt="Switch to Linux" />
+<img src="{{ site.url }}/images/switch_to_linux.png" alt="Switch to Linux" />
 
 <a href="http://www.ubergeek.tv/article.php?pid=54">Switch to Linux</a>: "(...) You have to config it. Ah, and then you have to write some shell scripts, update your rpms. You have to partition your drives and patch your kernel. Compile your binaries. Check your version dependencies, probably do that once or twice. It's just so easy. It's so simple, I don't see why most people don't run Linux."
 

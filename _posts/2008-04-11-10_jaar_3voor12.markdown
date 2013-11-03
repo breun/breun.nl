@@ -10,4 +10,4 @@ categories:
 
 Zie de <a href="http://3voor12lokaal.vpro.nl/magazines/news/index.jsp?portals=6337&magazines=6338&news=960665">aankondiging op 3VOOR12/Utrecht</a> voor meer informatie. Natuurlijk is het evenement  <a href="http://upcoming.yahoo.com/event/472130">ook te vinden op Upcoming</a>.
 
-<a href="http://3voor12lokaal.vpro.nl/magazines/news/index.jsp?portals=6337&magazines=6338&news=960665"><img alt="Flyer 10 jaar 3VOOR12 (Utrecht)" src="/images/10%20jaar%203VOOR12%20%28Utrecht%29.gif" width="422" height="596" /></a>
+<a href="http://3voor12lokaal.vpro.nl/magazines/news/index.jsp?portals=6337&magazines=6338&news=960665"><img alt="Flyer 10 jaar 3VOOR12 (Utrecht)" src="{{ site.url }}/images/10%20jaar%203VOOR12%20%28Utrecht%29.gif" width="422" height="596" /></a>

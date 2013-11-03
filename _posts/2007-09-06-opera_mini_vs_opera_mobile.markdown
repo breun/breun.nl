@@ -6,7 +6,7 @@ mt_id: 869
 categories:
 - tech
 ---
-<img alt="Nokia E65 Mocca Silver" src="/images/Nokia%20E65%20Mocca%20Silver.jpg" width="270" height="300" />
+<img alt="Nokia E65 Mocca Silver" src="{{ site.url }}/images/Nokia%20E65%20Mocca%20Silver.jpg" width="270" height="300" />
 
 SindsÂ eenÂ dagÂ ofÂ tweeÂ hebÂ ikÂ nuÂ eenÂ <aÂ href="http://www.nokia.nl/A4392171">NokiaÂ E65</a>Â inÂ mijnÂ broekzak.Â HijÂ isÂ eenÂ stukÂ platterÂ danÂ deÂ <a href="http://www.nokia.nl/A4392081">Nokia 6111</a>Â dieÂ ikÂ hiervoorÂ had en dat bevalt me wel. Natuurlijk vantevoren even gecheckt of ie ook werkt met <a href="http://www.apple.com/macosx/features/isync/">iSync</a>, zodat mijn adresboek en agenda gesynchroniseerd wordt met mijn MacBook. Daar moest ik wel eerst even een <a href="http://europe.nokia.com/A4299040">plugin</a> voor downloaden, maar vervolgens werkt het prima.
 

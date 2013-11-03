@@ -12,7 +12,7 @@ Vandaag ontving ik een <a href="http://www.spifc.org/">SPIFC</a> nieuwsbrief met
 
 <strong>Red</strong> - Standard version.
 
-<img alt="Zeitgeist Red" src="/images/zeitgeist_red.jpg" width="250" />
+<img alt="Zeitgeist Red" src="{{ site.url }}/images/zeitgeist_red.jpg" width="250" />
 
 <ol>
 <li>Doomsday Clock</li>
@@ -33,20 +33,20 @@ ALSO AVAILABLE! Special deluxe edition with 76 color pages.
 
 <strong>Blue</strong> - iTunes exclusive version with track 11 "Stellar".
 
-<img alt="Zeitgeist Blue" src="/images/zeitgeist_blue.jpg" width="250" />
+<img alt="Zeitgeist Blue" src="{{ site.url }}/images/zeitgeist_blue.jpg" width="250" />
 
 (SPIFC note: If you pre-ordered from anywhere except the United States, you would have received an additional bonus track, "Zeitgeist")
 
 <strong>Yellow</strong> - Best Buy exclusive version with track 9 "Death From Above".
 
-<img alt="Zeitgeist Yellow" src="/images/zeitgeist_yellow.jpg" width="250" />
+<img alt="Zeitgeist Yellow" src="{{ site.url }}/images/zeitgeist_yellow.jpg" width="250" />
 
 (SPIFC note: This deal is only for Best Buy in the United States. At the Best Buy's in Canada, you can only by the red version(s))
 
 <strong>Purple</strong> - Target exclusive version with track 13 "Zeitgeist".
 
-<img alt="Zeitgeist Purple" src="/images/zeitgeist_purple.jpg" width="250" />
+<img alt="Zeitgeist Purple" src="{{ site.url }}/images/zeitgeist_purple.jpg" width="250" />
 
 En dan schijnt er ook nog een groene UK versie te zijn, die qua tracks gewoon hetzelfde is als de rode standaard editie.
 
-<img alt="Zeitgeist Green" src="/images/zeitgeist_green.jpg" width="250" />
+<img alt="Zeitgeist Green" src="{{ site.url }}/images/zeitgeist_green.jpg" width="250" />

@@ -8,4 +8,4 @@ categories:
 ---
  Ik ben sinds kort <a href="http://www.ikea.com/nl/nl/catalog/products/S89849985">verkrijgbaar bij IKEA</a>.
 
-<a href="http://www.ikea.com/nl/nl/catalog/products/S89849985"><img alt="IKEA NILS" src="/images/IKEA%20NILS.png" width="387" height="254" /></a>
+<a href="http://www.ikea.com/nl/nl/catalog/products/S89849985"><img alt="IKEA NILS" src="{{ site.url }}/images/IKEA%20NILS.png" width="387" height="254" /></a>

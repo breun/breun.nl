@@ -8,6 +8,6 @@ categories:
 ---
 Gebruik je de CAPS LOCK wel eens? Waarschijnlijk niet. Soms druk je er per ongeluk op en dat is dan eigenlijk alleen maar irritant. Ja, toch? Pieter Hintjes begon zelfs een campagne tegen de CAPS LOCK: <a href="http://capsoff.blogspot.com/">CAPSoff</a>. En eigenlijk ziet zo'n <a href="http://www.pfu.fujitsu.com/hhkeyboard/lite2mac/">Happy Hacking Keyboard Lite2</a> zonder CAPS LOCK er eigenlijk ook gewoon wel tof uit.
 
-<img src="/images/hhkblite2.jpg" width="360" height="325" alt="Happy Hacking Keyboard Lite2 for Mac" />
+<img src="{{ site.url }}/images/hhkblite2.jpg" width="360" height="325" alt="Happy Hacking Keyboard Lite2 for Mac" />
 
 <strong>Update:</strong> Ik heb m'n caps lock toets uitgeschakeld. Dat kan gelukkig <a href="http://mkaz.com/archives/86">heel makkelijk</a>.

@@ -10,6 +10,6 @@ Pim berichtte al eerder dat hij <a href="http://www.pimrupert.nl/item/lepel-en-v
 
 En wat zie ik nu? <a href="http://www.festivalinfo.nl/festival_detail.php?festival_id=2491">Biton Open Air op festivalinfo.nl</a>!
 
-<img src="/images/festivalinfo.png" alt="Screenshot van festivalinfo.nl">
+<img src="{{ site.url }}/images/festivalinfo.png" alt="Screenshot van festivalinfo.nl">
 
 Ik ben trots. Trots gelijk een pauw.

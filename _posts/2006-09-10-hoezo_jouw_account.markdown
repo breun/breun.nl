@@ -8,6 +8,6 @@ categories:
 ---
 Vandaag bezocht ik voor het eerst de site van Orange, onder andere om te kijken watvoor abonnement ik ook alweer heb en wanneer het precies verloopt.
 
-<img src="/images/orange_mijn_account.png" width="274" height="321" alt="Orange heeft een probleem" />
+<img src="{{ site.url }}/images/orange_mijn_account.png" width="274" height="321" alt="Orange heeft een probleem" />
 
 Hebben jullie een probleem met jouw account?

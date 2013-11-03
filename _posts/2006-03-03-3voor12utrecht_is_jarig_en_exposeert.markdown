@@ -14,6 +14,6 @@ Vanavond om 20:00 is de opening. Komt allen!
 
 <strong>Update:</strong> het is hartstikke rock 'n roll om expo foto's na te doen!
 
-<img src="/images/3VOOR12Utrecht_expo.jpg" width="500" height="333" alt="Nils doet een foto na" />
+<img src="{{ site.url }}/images/3VOOR12Utrecht_expo.jpg" width="500" height="333" alt="Nils doet een foto na" />
 
 <small>Foto: <a href="http://www.martijnzuidweg.nl/image.php?imageid=2109&coll=72">Martijn Zuidweg</a></small>

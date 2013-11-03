@@ -8,6 +8,6 @@ categories:
 ---
 Mooi he? Mijn huis. En om de hoek is het ook niet verkeerd.
 
-<img src="/images/2005sneeuw1.jpg" width="400" height="300" alt="Mijn huis" />
+<img src="{{ site.url }}/images/2005sneeuw1.jpg" width="400" height="300" alt="Mijn huis" />
 
-<img src="/images/2005sneeuw2.jpg" width="400" height="300" alt="Om de hoek" />
+<img src="{{ site.url }}/images/2005sneeuw2.jpg" width="400" height="300" alt="Om de hoek" />

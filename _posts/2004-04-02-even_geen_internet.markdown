@@ -8,4 +8,4 @@ categories:
 ---
 Mijn internetverbinding doet al twee dagen raar. Soms doet ie 't heel even. Wel lachen trouwens, dat <a href="http://www.letterjames.de/">Letter James</a>.
 
-<img alt="Cover van Freundin" src="/images/geeninternet.jpg" width="228" height="320" />
+<img alt="Cover van Freundin" src="{{ site.url }}/images/geeninternet.jpg" width="228" height="320" />

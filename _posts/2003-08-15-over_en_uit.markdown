@@ -8,13 +8,13 @@ categories:
 ---
 Maandag stond er rond kwart over tien een meisje op de stoep. Ze kwam deze week bij me logeren. Daarna met Floor naar de opening van de <a href="http://www.introductie-utrecht.nl/">UIT</a> met onze VIP-bandjes. We waren ongeveer 40 minuten te laat, maar we werden als ware celebrities naar onze plaatsen op de eerste rij geleid. Wat een grap.
 
-<img src="/images/uit2003-1.jpg" style="width:410px;height:308px;" alt="Floor en breun met VIP-bandjes" />
+<img src="{{ site.url }}/images/uit2003-1.jpg" style="width:410px;height:308px;" alt="Floor en breun met VIP-bandjes" />
 
 's Avonds <a href="http://www.livejournal.com/users/nieske/">Nieske</a> geholpen met draaien op <a href="http://www.biton.nl/">Biton</a>, hoewel ik eigenlijk pas voor dinsdag stond ingepland. Maar dat werd me, ondanks het feit dat er maandag geen aankomende eerstejaars naar binnen mochten op last van de universiteit, zeker wel een retepuike party.
 
 Dinsdag om 10:00 stond ik alweer fris en fruitig op de Uithof om <a href="http://www.livejournal.com/users/lukazz/">Lukas</a> een beetje te ondersteunen bij het draaien van de plaatjes. 's Avonds met <a href="http://magazine.zomp.nl/get.php?userid=5">Jacco</a> de cd-spelers op Biton bestierd. Wederom een party van het retepuike kaliber.
 
-<img src="/images/uit2003-2.jpg" style="width:410px;height:308px;" alt="The Itchie & Scratchie Show!" />
+<img src="{{ site.url }}/images/uit2003-2.jpg" style="width:410px;height:308px;" alt="The Itchie & Scratchie Show!" />
 
 Woensdag stond ik al om 12:00 te tappen in de Bavaria-kar bij Biton voor de deur. Niet dat er op dat moment al echte mensen wakker zijn die iets willen drinken. Alleen twee tandloze park-alcoholisten die we na vier biertjes toch maar hebben verteld dat ze misschien een beetje hard aan het tanken waren, zo op de vroege ochtend. Vervolgens van 14:00 tot 18:00 rondleidingen gegeven. 's Avonds speelde band er echt een geweldige band op ons podiumpje. Hele zaal vol dansende mensen. Wauwie. En buiten vuurspuwers. Lauw.
 

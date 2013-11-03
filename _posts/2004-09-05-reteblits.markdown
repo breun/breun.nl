@@ -10,6 +10,6 @@ Afgelopen donderdag heb ik een digitale camera aangeschaft. Nouja, aangeschaft..
 
 Binnenkort dus vaker plaatjes!
 
-<img src="/images/dimagez2.jpg" alt="Konica Minolta DiMAGE Z2" width="348" height="324" />
+<img src="{{ site.url }}/images/dimagez2.jpg" alt="Konica Minolta DiMAGE Z2" width="348" height="324" />
 
 <a href="http://www.dpreview.com/news/0402/04021218konicaminoltaz2.asp">Review op dpreview.com</a>

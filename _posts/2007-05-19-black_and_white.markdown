@@ -16,7 +16,7 @@ Stel, je zou wel een leuke MacBook willen kopen. Zoals ik. Dan stel je bijvoorbe
 
 Die 200 GB 4200 rpm harde schijf is wel wat langzamer dan de 5400 rpm schijven die er standaard in zitten, maar om mijn audio-interface ten volle te kunnen benutten is 5400 rpm toch niet snel genoeg, dus in dat geval gebruik ik dan toch een externe 7200 rpm schijf. En dan vind ik het belangrijker dat ik gewoon lekker wat opslagruimte heb op m'n laptop.
 
-<img alt="MacBooks" src="/images/macbooks.jpg" width="372" height="173" />
+<img alt="MacBooks" src="{{ site.url }}/images/macbooks.jpg" width="372" height="173" />
 
 Dan blijft alleen nog over: de kleur.
 

@@ -13,6 +13,6 @@ En toen heb ik 'm vannacht bij aankomst op Utrecht CS in het bagagerek laten lig
 
 Op zoek naar de Gevonden Voorwerpen op <a href="http://www.ns.nl/">www.ns.nl</a> trof ik het volgende aan:
 
-<img src="/images/ns_nullpointer.png" width="388" height="260" alt="java.lang.NullPointerException" />
+<img src="{{ site.url }}/images/ns_nullpointer.png" width="388" height="260" alt="java.lang.NullPointerException" />
 
 Dat stemde ook niet bepaald hoopgevend.

@@ -8,4 +8,4 @@ categories:
 ---
 Ik gebruik Mac OS X Tiger al geruime tijd, maar ontdekte vandaag pas dat er een geweldig grafiekenprogramma (2D en 3D) in zit. Check Grapher onder Hulpprogramma's.
 
-<img src="/images/grapher.png" width="373" height="369" alt="Grapher" />
+<img src="{{ site.url }}/images/grapher.png" width="373" height="369" alt="Grapher" />

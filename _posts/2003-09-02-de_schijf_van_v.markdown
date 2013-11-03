@@ -8,4 +8,4 @@ categories:
 ---
 Nou, daar gaan we dan. Ik ben sinds een paar uur officieel bestuurder van <a href="http://www.biton.nl/">BITON</a>. Zie hier de achterkant van onze shirts.
 
-<img src="/images/schijfvanvijf.jpg" width="400" height="561" alt="De Schijf van Vijf" />
+<img src="{{ site.url }}/images/schijfvanvijf.jpg" width="400" height="561" alt="De Schijf van Vijf" />

@@ -8,6 +8,6 @@ categories:
 ---
 "Gebruiken jullie ook iBooks?"
 
-<img src="/images/3000_iBooks.jpg" width="480" alt="3000 iBooks" />
+<img src="{{ site.url }}/images/3000_iBooks.jpg" width="480" alt="3000 iBooks" />
 
 <small>Zie ook <a href="http://www.jaronbrass.com/gallery/1to1_miramar/">de rest</a> van de foto's</small>

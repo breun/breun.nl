@@ -8,4 +8,4 @@ categories:
 ---
 Weer <a href="http://www.apple.com/itunes/download/">een reden minder</a> om een <a href="http://www.apple.com/hardware/">Mac</a> te willen.
 
-<img alt="iTunes for Windows" src="/images/iTunes.jpg" width="417" height="366" />
+<img alt="iTunes for Windows" src="{{ site.url }}/images/iTunes.jpg" width="417" height="366" />

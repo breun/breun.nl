@@ -8,4 +8,4 @@ categories:
 ---
 <a href="http://nieske.livejournal.com/112836.html">In navolging van Nieske</a> heb ik ook maar eens wat gesubmit: <a href="http://politics.slashdot.org/article.pl?sid=06/09/14/2048235">mijn first post op Slashdot</a>!
 
-<a href="http://politics.slashdot.org/article.pl?sid=06/09/14/2048235"><img src="/images/slashdot_first_post.png" width="361" height="273" "Slashdot first post" /></a>
+<a href="http://politics.slashdot.org/article.pl?sid=06/09/14/2048235"><img src="{{ site.url }}/images/slashdot_first_post.png" width="361" height="273" "Slashdot first post" /></a>

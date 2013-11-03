@@ -10,6 +10,6 @@ Ik gebruik al bijna drie jaar een laptop als 'hoofdcomputer'. Ik heb nog wel zo'
 
 Gisteren heb ik eindelijk eens de stap genomen en heb ik <a href="http://www.vmware.com/mac">VMware Fusion</a> op m'n <a href="http://www.apple.com/nl/macbook/">MacBook</a> geïnstalleerd. Ik wilde <a href="http://www.microsoft.com/netherlands/windows/products/windowsvista/default.mspx">Windows Vista</a> x64 installeren (zolang ik nog studeer kan ik gratis een licentie krijgen via het <a href="http://msdn.microsoft.com/academic/">MSDN-AA programma</a> bij Informatica) en ik las dat je qua performance voor Vista beter VMware Fusion kunt hebben (en voor Windows XP beter <a href="http://www.parallels.com/en/products/desktop/">Parallels Desktop</a>). Het installeren van zowel VMware Fusion als Vista ging redelijk vlot. Ik had voordat ik de VMware Tools onder de virtuele Windows had geïnstalleerd alleen nog het vreemde probleem dat mijn toetsenbord onder Windows niet werkte zolang de <a href="http://www.last.fm/download?showplatform=Mac">Last.fm applicatie</a> draaide (?!).
 
-<img src="/images/Windows_Vista_installatie_onder_VMware_Fusion.png" width="401" height="351" alt="Windows Vista installatie onder VMware Fusion" />
+<img src="{{ site.url }}/images/Windows_Vista_installatie_onder_VMware_Fusion.png" width="401" height="351" alt="Windows Vista installatie onder VMware Fusion" />
 
 Nou nog even Fedora in een virtuele machine installeren en dan kan ik m'n oude bak eindelijk de deur uit doen. (Misschien krijg ik er zelfs nog wat voor.)

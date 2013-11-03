@@ -6,7 +6,7 @@ mt_id: 648
 categories:
 - computers
 ---
-Van een webserver op m'n eigen computer via een subirectory op <a href="http://www.controllerboy.com/">www.controllerboy.com</a> nu naar een eigen domein: <a href="http://www.breun.nl/">www.breun.nl</a>.
+Van een webserver op m'n eigen computer via een subirectory op <a href="http://www.controllerboy.com/">www.controllerboy.com</a> nu naar een eigen domein: www.breun.nl.
 
 Vraag jezelf: "Wat doe ik hier?"
 

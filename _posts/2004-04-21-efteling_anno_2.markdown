@@ -12,28 +12,28 @@ Het weer was mooi en het was niet erg druk. We hebben, op een paar kleine attrac
 
 Om 19:00 waren we weer terug in Utrecht en na een voedzame maaltijd van amice Burger King stopte ik vervolgens op Biton de leukste foto's in een <a href="http://www.ibbu.nl/~breun/efteling2004.zip">zipje van ruim 33 megabyte</a>. Hieronder een paar verkleinde voorproefjes.
 
-<img src="/images/efteling01.jpg" width="400" height="300" alt="Bus 168 in Den Bosch" />
+<img src="{{ site.url }}/images/efteling01.jpg" width="400" height="300" alt="Bus 168 in Den Bosch" />
 
-<img src="/images/efteling02.jpg" width="400" height="300" alt="Elfen" />
+<img src="{{ site.url }}/images/efteling02.jpg" width="400" height="300" alt="Elfen" />
 
-<img src="/images/efteling03.jpg" width="400" height="300" alt="Axel in de Bob in actie" />
+<img src="{{ site.url }}/images/efteling03.jpg" width="400" height="300" alt="Axel in de Bob in actie" />
 
-<img src="/images/efteling04.jpg" width="400" height="300" alt="Pagode uitzicht" />
+<img src="{{ site.url }}/images/efteling04.jpg" width="400" height="300" alt="Pagode uitzicht" />
 
-<img src="/images/efteling05.jpg" width="400" height="300" alt="Monsieur Cannibale" />
+<img src="{{ site.url }}/images/efteling05.jpg" width="400" height="300" alt="Monsieur Cannibale" />
 
-<img src="/images/efteling06.jpg" width="400" height="300" alt="Muffin op grond" />
+<img src="{{ site.url }}/images/efteling06.jpg" width="400" height="300" alt="Muffin op grond" />
 
-<img src="/images/efteling07.jpg" width="400" height="533" alt="Slakken" />
+<img src="{{ site.url }}/images/efteling07.jpg" width="400" height="533" alt="Slakken" />
 
-<img src="/images/efteling08.jpg" width="400" height="300" alt="Jaii-Lana op paddestoel" />
+<img src="{{ site.url }}/images/efteling08.jpg" width="400" height="300" alt="Jaii-Lana op paddestoel" />
 
-<img src="/images/efteling09.jpg" width="400" height="300" alt="Pauw" />
+<img src="{{ site.url }}/images/efteling09.jpg" width="400" height="300" alt="Pauw" />
 
-<img src="/images/efteling10.jpg" width="400" height="300" alt="Gondeletta" />
+<img src="{{ site.url }}/images/efteling10.jpg" width="400" height="300" alt="Gondeletta" />
 
-<img src="/images/efteling11.jpg" width="400" height="300" alt="Gondeletta" />
+<img src="{{ site.url }}/images/efteling11.jpg" width="400" height="300" alt="Gondeletta" />
 
-<img src="/images/efteling12.jpg" width="400" height="533" alt="Naar huis" />
+<img src="{{ site.url }}/images/efteling12.jpg" width="400" height="533" alt="Naar huis" />
 
 Persoonlijk vond ik duistere ritjes als de Vogel Rok en de Droomvlucht het geweldigst, maar helaas was het nogal moeilijk om daar mooie foto's van te maken. En Villa Volta moet je gewoon, in je maag, gevoeld hebben. Er is een hoop veranderd sinds ik er zo'n acht jaar geleden voor het laatst was. Volgend jaar weer?

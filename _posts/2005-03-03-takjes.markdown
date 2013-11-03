@@ -6,6 +6,6 @@ mt_id: 666
 categories:
 - fotografie
 ---
-<img src="/images/takjes.jpg" width="400" height="300" alt="Takjes" />
+<img src="{{ site.url }}/images/takjes.jpg" width="400" height="300" alt="Takjes" />
 
 Het sneeuwt dat het kraakt.

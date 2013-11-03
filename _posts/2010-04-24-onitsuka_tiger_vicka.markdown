@@ -8,6 +8,6 @@ categories:
 ---
 Ik heb zulke fijne stappers.
 
-<img alt="Onitsuka Tiger Vicka" src="/images/onitsuka-tiger-2009-february-29.jpg" width="500" height="377" />
+<img alt="Onitsuka Tiger Vicka" src="{{ site.url }}/images/onitsuka-tiger-2009-february-29.jpg" width="500" height="377" />
 
 Maar ze beginnen langzaam af te takelen. Waar koop ik een nieuw paar (maat 46,5)?

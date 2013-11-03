@@ -6,7 +6,7 @@ mt_id: 669
 categories:
 - muziek
 ---
-<img alt="Kypski vs Lejo" src="/images/kypski_vs_lejo.jpg" width="400" height="313" />
+<img alt="Kypski vs Lejo" src="{{ site.url }}/images/kypski_vs_lejo.jpg" width="400" height="313" />
 
 <a href="http://3voor12lokaal.vpro.nl/magazines/news/index.jsp?portals=6337&magazines=6338&news=107838">3VOOR12/Utrecht schrijft</a>:
 

@@ -14,7 +14,7 @@ Sony doet hier blijkbaar vrolijk aan mee, zelfs op haar top-of-the-line Vaio lap
 
 Ik vind het wat vreemd dat ze die programma's eerst installeren en dan vervolgens moeite gaan doen om ze weer te verwijderen. Of zou <em>overall system performance</em> dan minder ge<em>maximized</em> zijn? Maar het mooiste is: als je een systeem <em>zonder</em> Fresh Start&trade; bestelt (en Sony dus tijd bespaart omdat ze hun eigen crapware dan niet voor je hoeven te verwijderen) word je beloond met <strong>$50 korting</strong>!
 
-<img src="/images/fresh-start-sony.jpg" width="440" height="161" alt="Sony Fresh Start" />
+<img src="{{ site.url }}/images/fresh-start-sony.jpg" width="440" height="161" alt="Sony Fresh Start" />
 
 (Via <a href="http://www.engadget.com/2008/03/21/sony-hates-you-offers-50-fresh-start-option-to-build-your-la/">Engadget</a>)
 

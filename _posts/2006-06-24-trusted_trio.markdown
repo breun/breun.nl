@@ -10,7 +10,7 @@ Eergisteren heb ik, geÃ¯nspireerd door <a href="http://lifehacker.com/software
 
 Ik heb nu voor elke mailbox de volgende mappen:
 
-<img src="/images/trusted_trio.png" width="183" height="78" alt="Trusted Trio" />
+<img src="{{ site.url }}/images/trusted_trio.png" width="183" height="78" alt="Trusted Trio" />
 
 Vervolgens heb ik wat <a href="http://www.indev.ca/MailActOn.html">Mail Act-On</a> regels toegevoegd zodat ik met een druk op de knop mailtjes kan verplaatsen naar een map. En dan jezelf verplichten om je inbox leeg te houden. Je moet dus bij elk mailtje denken: ik kan dit direct even snel afhandelen (dan meteen doen en archiveren), ik doe dit later, bijvoorbeeld omdat er wat voor moet worden uitgezocht (dan naar '1 Actie'), ik moet ergens op wachten voor ik dit kan afhandelen (naar '2 Wachtend'), dit kan meteen weg (DELETED!) of dit is iets om te bewaren (naar archief en klaar).
 

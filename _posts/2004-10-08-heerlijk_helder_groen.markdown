@@ -8,7 +8,7 @@ categories:
 ---
 Er was vanavond een huisvergadering. Dat stond waarschijnlijk al een tijdje op het bord beneden, maar het was me nog niet opgevallen. Het bleek een huisfeestvergadering te zijn. Traditioneel schijnt dan besloten te worden dat ik de uitnodiging voor m'n rekening neem. Bij deze.
 
-<a href="http://www.ibbu.nl/~breun/huisfeest/"><img src="/images/heerlijk_helder_groen.jpg" width="400" height="320" alt="Heerlijk Helder Groen Huisfeest" /></a>
+<a href="http://www.ibbu.nl/~breun/huisfeest/"><img src="{{ site.url }}/images/heerlijk_helder_groen.jpg" width="400" height="320" alt="Heerlijk Helder Groen Huisfeest" /></a>
 
 Dus kom 20 november allemaal lekker groen langs.
 

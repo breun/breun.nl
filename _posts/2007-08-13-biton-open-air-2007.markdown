@@ -6,7 +6,7 @@ mt_id: 865
 categories:
 - muziek
 ---
-<img src="/images/Biton_Open_Air_2007_logo.png" width="400" height="113" alt="Logo Biton Open Air 2007" />
+<img src="{{ site.url }}/images/Biton_Open_Air_2007_logo.png" width="400" height="113" alt="Logo Biton Open Air 2007" />
 
 Woensdag 15 augustus is het alweer tijd voor de vierde editie van <a href="http://www.bitonopenair.nl/">Biton Open Air</a>, het gratis festival georganiseerd door studentengezelligheidsvereniging <a href="http://www.biton.nl/">Biton</a>. Het festival wordt gehouden in het kader van de <a href="http://www.introductie-utrecht.nl/">UIT</a> (Utrechtse IntroductieTijd) voor aankomende eerstejaarsstudenten, maar is in principe toegankelijk voor iedereen. De capaciteit van het binnenpodium is beperkt en het kan zijn dat hier bij drukte voorrang wordt gegeven aan aankomende eerstejaars en leden van Biton.
 

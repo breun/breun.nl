@@ -8,4 +8,4 @@ categories:
 ---
 Zo, even een nieuw stokje geheugen erin gestoken.
 
-<img src="/images/Pimp_my_iBook.png" width="307" height="351" alt="Over deze Mac" />
+<img src="{{ site.url }}/images/Pimp_my_iBook.png" width="307" height="351" alt="Over deze Mac" />

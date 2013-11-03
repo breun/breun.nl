@@ -12,5 +12,5 @@ Omdat we eigenlijk eergisteren pas tijd hadden om het te vieren, hebben we het e
 
 Felicitaties kun je hieronder bij de reacties voegen. Maar als we geen felicitaties ontvangen, dan is dat ook niet erg, want zoals je op deze foto kunt zien: ik en Annemieke kunnen de hele wereld aan!
 
-<img title="Nils en Annemieke" alt="Foto van Nils en Annemieke" src="http://www.breun.nl/images/20010831breunenanne.jpg">
+<img title="Nils en Annemieke" alt="Foto van Nils en Annemieke" src="{{ site.url }}/images/20010831breunenanne.jpg">
 [31 augustus 2001: ik en Annemieke bij Flower in de keuken.]
