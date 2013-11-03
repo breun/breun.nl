@@ -1,0 +1,17 @@
+---
+layout: post
+title: 9 tot 5
+date: '2003-06-15 15:24:32 +0200'
+mt_id: 483
+categories:
+- muziek
+---
+Afgelopen nacht heb ik samen met Martijn weer een feestje in <a href="http://www.fortvechten.nl/">Fort Vechten</a> voor <a href="http://www.ouderalleen.nl/">OuderAlleen</a> gedraaid. We zijn zo ongeveer hofleveranciers bij die feesten.
+
+Deze feestjes zijn ook altijd wat specialer dan andere. Ze duren meestal langer (mensen kunnen blijven slapen en nemen massaal tenten enzo mee) en er zijn meer mensen. Ohja, en ze dragen daar altijd naamkaartjes (met screennames). Dus wij ook: DJ 1 en DJ A (that's me).
+
+<img src="{{ site.url }}/images/dj1_en_djA.jpg" alt="Martijn en Nils, de discjockeys" />
+
+Lekker hoor, zo'n baantje van 21:00 tot 5:00... Hier werd het alweer licht bij de vuurkorf.
+
+<img src="{{ site.url }}/images/vuurkorf.jpg" alt="Vuurkorf bij het ochtendgloren" />

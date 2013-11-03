@@ -8,4 +8,4 @@ categories:
 ---
 Lukas heeft sinds vandaag een webcam. Ik heb een paar screencaptures van hem en/of Nieske gemaakt, waarvoor overigens niet geposeerd is, en bedacht vervolgens dat het misschien wel leuk was om eens te proberen iets te maken met Windows Movie Maker. Muziekje eronder ('I am 9 today' van <a href="http://www.randomsummer.com/">M&uacute;m</a>), effectje erover, fade effecten ertussen, klaar.
 
-Bekijk zelf het <a href="/files/LukasNieske.wmv">resultaat</a> [2,1 MB .wmv].
+Bekijk zelf het <a href="{{ site.url }}/files/LukasNieske.wmv">resultaat</a> [2,1 MB .wmv].

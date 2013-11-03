@@ -1,0 +1,15 @@
+---
+layout: post
+title: SysAdminDag 2007
+date: '2007-07-27 18:57:02 +0200'
+mt_id: 864
+categories:
+- tech
+---
+Het is weer de laatste vrijdag van juli, oftewel: <a href="http://www.sysadmindag.nl/">SysAdminDag</a>!
+
+<a href="http://www.sysadmindag.nl/"><img src="{{ site.url }}/images/sysadmindag2007.png" width="279" alt="SysAdminDag 2007" /></a>
+
+"Bemin je sysadmin"!
+
+In de categorie "Credit where credit's due": een leuk artikeltje over <a href="http://kerneltrap.org/node/14002">Linux 0.01</a>.

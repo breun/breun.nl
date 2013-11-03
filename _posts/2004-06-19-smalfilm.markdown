@@ -1,0 +1,9 @@
+---
+layout: post
+title: Sm&aring;lfilm
+date: '2004-06-19 04:52:23 +0200'
+mt_id: 609
+categories:
+- muziek
+---
+Er is een <a href="http://www.holymadre.com/spinvis/borgert.php">zweedse cover van Smalfilm (Spinvis)</a> opgenomen door Johan Borgert &amp; Holy Madre. Heb jij 'm al gehoord?
