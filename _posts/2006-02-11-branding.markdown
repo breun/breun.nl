@@ -1,0 +1,10 @@
+---
+layout: post
+title: Branding
+date: '2006-02-11 23:50:22 +0100'
+mt_id: 759
+categories:
+- tech
+- humor
+---
+Ik rijd sinds kort <a href="http://www.cycles.peugeot.fr/">Peugeot</a>, maar ik heb ook een <a href="http://www.lacie.com/nl/products/product.htm?pid=10468">Porsche</a> voor backup.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Tettnang
+date: '2004-05-18 02:01:57 +0200'
+mt_id: 603
+categories:
+- computers
+---
+Morgen wordt ie pas officieel aangekondigd, maar ik draai 'm al: <a href="http://fedora.redhat.com/">Fedora Core</a> 2. Codenaam <a href="ftp://ftp.quicknet.nl/pub/Linux/download.fedora.redhat.com/2/i386/iso/">Tettnang</a>, opvolger van <a href="ftp://ftp.quicknet.nl/pub/Linux/download.fedora.redhat.com/1/i386/iso/">Yarrow</a>.
+
+<pre>[root@breuniac root]# cat /etc/fedora-release
+Fedora Core release 2 (Tettnang)</pre>
+
+<img src="/images/fedora2.png" width="153" height="144" alt="Fedora 2 logo" />
+
+Offici&euml;le torrents: <a href="http://torrent.dulug.duke.edu/">http://torrent.dulug.duke.edu/</a>

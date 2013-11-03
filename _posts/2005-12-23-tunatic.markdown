@@ -1,0 +1,10 @@
+---
+layout: post
+title: Tunatic
+date: '2005-12-23 00:29:02 +0100'
+mt_id: 747
+categories:
+- muziek
+- tech
+---
+Ik heb het nog niet geprobeerd en heb ook niet heel veel behoefte om het te gaan proberen, maar <a href="http://www.macworld.com/weblogs/macgems/2005/12/tunatic/">als ik het zo lees</a> is <a href="http://www.wildbits.com/tunatic/">Tunatic</a> (Win/Mac) best gaaf.

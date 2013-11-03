@@ -1,0 +1,14 @@
+---
+layout: post
+title: Pyjama
+date: '2005-11-26 04:02:35 +0100'
+mt_id: 741
+categories:
+- humor
+---
+Het is <a href="http://www.vandale.nl/opzoeken/woordenboek/?zoekwoord=pyjama">pyjama</a>! Niet pyama of pjama of payama of pajama of iets anders dan net niet een pyjama is. Zelfs niet als het een model van flanel is.
+
+<dl>
+<dt>pyÂ·jaÂ·ma (de ~ (m.), ~'s)</dt>
+<dd>1 nachtkleding, bestaande uit jas en broek</dd>
+</dl>

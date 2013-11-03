@@ -1,0 +1,15 @@
+---
+layout: post
+title: Verhipt
+date: '2003-06-29 16:09:54 +0200'
+mt_id: 487
+categories:
+- computers
+---
+Ik heb vandaag mijn computer een beetje verhipt. Zie hier een stukje van mijn huidige desktop:
+
+<img src="/images/zmatrix.gif" alt="Desktop met ZMatrix" />
+
+Dat ziet er natuurlijk leuk uit, maar wat je nu niet ziet is dat die Matrix code geanimeerd is en realtime wordt geblend met mijn Sigur R&oacute;s wallpaper. Wil je dat ook? Check dan <a href="http://zmatrix.sourceforge.net/">ZMatrix</a>. Verder compleet nutteloos natuurlijk.
+
+Wat ook erg nutteloos is, maar je computer wel verhipt, is <a href="http://www.radfiles.com/logonloader/">Logon Loader</a>. Momenteel krijg ik het <a href="http://www.deviantart.com/deviation/117763">Digital IO</a> logon scherm als ik mijn pc opstart. Wat een feest, wat een feest, zo'n feest is het in tijden niet geweest.

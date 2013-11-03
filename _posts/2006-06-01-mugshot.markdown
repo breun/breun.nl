@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mugshot
+date: '2006-06-01 14:30:16 +0200'
+mt_id: 778
+categories:
+- tech
+---
+Van <a href="http://mugshot.org/">mugshot.org</a> word ik nog niet heel veel wijzer, maar als ik de <a href="http://mugshot.org/faq">FAQ</a> en deze <a href="http://chimprawk.blogspot.com/2006/05/redhat-goes-social-with-mugshot.html">blog post</a> lees word ik al wel enigszins enthousiast over de toekomst ervan.

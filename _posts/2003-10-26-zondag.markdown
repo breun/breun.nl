@@ -1,0 +1,14 @@
+---
+layout: post
+title: Zondag
+date: '2003-10-26 22:19:33 +0100'
+mt_id: 531
+categories:
+- dagboek
+---
+Ik slaap aan de lopende band
+Ik staak als het regent
+Ik voer niets uit tot de sirene luidt
+Ik zie wel hoe het afloopt
+
+<small>Vrij naar 'Wij slapen aan de lopende band' van <a href="http://www.gorki.be/">Gorki</a></small>

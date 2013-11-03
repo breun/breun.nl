@@ -1,0 +1,9 @@
+---
+layout: post
+title: Zombie
+date: '2004-12-01 02:01:00 +0100'
+mt_id: 643
+categories:
+- computers
+---
+Slashdot heeft een artikeltje getiteld <a href="http://it.slashdot.org/it/04/11/30/1932245.shtml?tid=220&tid=172&tid=201">Clean System to Zombie Bot in Four Minutes</a>. En ik elke keer maar weer huisgenoten, kennissen en familie uit de brand helpen...

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Krimp (2)
+date: '2005-03-21 02:55:38 +0100'
+mt_id: 668
+categories:
+- dagboek
+---
+<a href="/2003/08/krimp.html">Flashback</a>.

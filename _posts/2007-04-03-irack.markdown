@@ -1,0 +1,11 @@
+---
+layout: post
+title: iRack
+date: '2007-04-03 23:08:34 +0200'
+mt_id: 850
+categories:
+- tech
+---
+<a href="http://www.madtv.com/">MADtv</a> maakte een grappig filmpje over wat nieuwe Apple producten.
+
+<object width="300" height="250"><param name="movie" value="http://www.youtube.com/v/-mCCYLC-4xA"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/-mCCYLC-4xA" type="application/x-shockwave-flash" wmode="transparent" width="300" height="250"></embed></object>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: I sure did!
+date: '2005-08-06 02:57:48 +0200'
+mt_id: 705
+categories:
+- computers
+---
+Ik heb vanavond zeker wel de eerste 75 <a href="http://www.homestarrunner.com/sbemail.html">Strong Bad e-mails</a> gekeken met <a href="http://www.pimrupert.nl/">Pim</a>. I sure did!

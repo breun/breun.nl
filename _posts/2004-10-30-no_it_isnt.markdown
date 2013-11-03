@@ -1,0 +1,14 @@
+---
+layout: post
+title: No, it isn't
+date: '2004-10-30 16:10:58 +0200'
+mt_id: 637
+categories:
+- computers
+---
+"Wegens een storing is inloggen nu helaas niet mogelijk.
+Probeer het later nog eens. Onze excuses voor het ongemak.
+
+<b>Mijn IB-groep</b> is dagelijks van 07.00 tot 24.00 uur beschikbaar."
+
+No, it isn't.

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Geinig
+date: '2004-01-23 07:00:15 +0100'
+mt_id: 559
+categories:
+- computers
+---
+Op de <a href="http://www.ibbu.nl/">IBB website</a> (Internet -> Diensten) las ik vandaag toevallig:
+
+"Je kunt als IBB-bewoner gratis een mailbox (jij@ibbu.nl) en/of een homepage (www.ibbu.nl/~jij) krijgen. Aanvragen is eenvoudig: stuur even een mailtje naar de helpdesk met je naam, huis/kamernummer en gewenste loginnaam en het wordt voor je aangemaakt!"
+
+Geinig.

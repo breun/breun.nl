@@ -1,0 +1,21 @@
+---
+layout: post
+title: Ha, ik win!
+date: '2006-07-21 21:59:34 +0200'
+mt_id: 795
+categories:
+- tech
+---
+<code># chmod 644 *
+-bash: //bin/chmod: Argument list too long</code>
+
+Hmm...
+
+<code># ls -1 | wc -l
+7533</code>
+
+Hmm, vandaar...
+
+<code># for file in *; do chmod 644 $file; done</code>
+
+Ha, ik win!

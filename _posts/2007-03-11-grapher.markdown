@@ -1,0 +1,11 @@
+---
+layout: post
+title: Grapher
+date: '2007-03-11 19:42:02 +0100'
+mt_id: 847
+categories:
+- tech
+---
+Ik gebruik Mac OS X Tiger al geruime tijd, maar ontdekte vandaag pas dat er een geweldig grafiekenprogramma (2D en 3D) in zit. Check Grapher onder Hulpprogramma's.
+
+<img src="/images/grapher.png" width="373" height="369" alt="Grapher" />

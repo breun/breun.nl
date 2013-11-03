@@ -1,0 +1,15 @@
+---
+layout: post
+title: Kresj
+date: '2003-05-06 20:27:26 +0200'
+mt_id: 470
+categories:
+- computers
+---
+Toch geweldig, die Internet Explorer onder Windows. Laat dit technische mirakel een .html file met de volgende (incorrecte) code openen:
+
+<center><b>&lt;html&gt;&lt;form&gt;&lt;input type ie_crash&gt;&lt;/form&gt;&lt;/html&gt;</b></center>
+
+En... KRESJ!
+
+P.S. Internet Explorer voor Mac struikelt hier niet over. :)
