@@ -2,15 +2,23 @@
 layout: default
 ---
 
-{% if page.previous %}
-<a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
-{% endif %}
+<nav>
+  <ul>
+    {% if page.previous %}
+    <li><a href="{{ page.previous.url }}">Ouder</a></li>
+    {% endif %}
+    {% if page.next %}
+    <li><a href="{{ page.next.url }}">Nieuwer</a></li>
+    {% endif %}
+  </ul>
+</nav>
 
-{% if page.next %}
-<a href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
-{% endif %}
-
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_long_string }}</p>
-
-<div class="post">{{ content }}</div>
+<main>
+  <article>
+    <header>
+      <h1>{{ page.title }}</h1>
+      <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}</time>
+    </header>
+    <div class="post">{{ content }}</div>
+  </article>
+</main>
