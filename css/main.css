@@ -10,26 +10,41 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body {
+  height: 100%;
+}
 
 body {
   background-color: #FFF;
   font-family: 'Fenix', serif;
   font-size: 22px;
-  text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cherry Swash', cursive;
   font-size: 200%;
+  line-height: 110%;
 }
 
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+h1 {
+  margin-bottom: 1em;
+}
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #00a;
+}
+
+a:hover {
+  color: #000;
+}
+
+a:visited {
+  color: #a0a;
+}
 
 /*****************************************************************************/
 /*
@@ -59,7 +74,6 @@ ul.posts span {
 
 .site {
   font-size: 115%;
-  text-align: justify;
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
@@ -97,7 +111,7 @@ ul.posts span {
   color: #000;
 }
 
-.site .meta {
+.site time {
   color: #aaa;
 }
 
