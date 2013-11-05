@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ik hÃ¡Ã¡t Windows
+title: Ik háát Windows
 date: '2006-03-27 20:42:56 +0200'
 mt_id: 772
 categories:
