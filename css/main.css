@@ -141,8 +141,17 @@ footer .contact {
   margin-right: 3em;
 }
 
-footer .contact a {
+footer img {
+  height: 16px; 
+  width: 16px;
+}
+
+footer a {
   color: #8085C1;
+}
+
+footer ul {
+  list-style-type: none;
 }
 
 footer .rss {

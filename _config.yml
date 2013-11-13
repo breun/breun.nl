@@ -2,6 +2,6 @@ name: breun
 markdown: redcarpet
 pygments: true
 encoding: UTF-8
-permalink: /:title.html
-
+permalink: /:year/:month/:title.html
+exclude: ['README.md']
 hostname: breun.nl
