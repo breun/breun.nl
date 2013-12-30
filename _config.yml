@@ -3,5 +3,5 @@ markdown: redcarpet
 pygments: true
 encoding: UTF-8
 permalink: /:year/:month/:title.html
-exclude: ['README.md']
+exclude: ['README.md', 'push']
 hostname: breun.nl

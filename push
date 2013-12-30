@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Config
+SOURCE=_site/
+TARGET=breun.nl:/beta/
+
+# Go!
+rsync --recursive --compress --checksum --delete --verbose ${SOURCE} ${TARGET}
