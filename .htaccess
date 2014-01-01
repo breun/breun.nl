@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^/(atom|rss)\.xml$ /feed.xml [R=301,NC]
+RewriteRule ^/(atom|rss)\.xml$ /feed.xml [R=301,L]
