@@ -2,7 +2,7 @@
 
 # Config
 SOURCE=_site/
-TARGET=breun.nl:/beta/
+TARGET=breun.nl:/httpdocs/
 
 # Go!
 rsync --recursive --compress --checksum --delete --verbose ${SOURCE} ${TARGET}
