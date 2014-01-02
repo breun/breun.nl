@@ -1,2 +1,15 @@
-RewriteEngine On
+# Use UTF-8
+AddDefaultCharset utf-8
+
+# Set a mime type for .m4a (AAC) files
+AddType audio/x-m4a m4a
+
+# Enable mod_rewrite
+RewriteEngine on
+
+# Force redirect to breun.nl
+RewriteCond %{HTTP_HOST} !^breun\.nl$ [NC]
+RewriteRule ^(.*)$ http://breun.nl/$1 [R=301,L]
+
+# Redirect old Atom/RSS URLs
 RewriteRule ^(atom|rss)\.xml$ /feed.xml [R=301,L]
