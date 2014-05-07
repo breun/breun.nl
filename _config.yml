@@ -1,6 +1,6 @@
 name: breun
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 encoding: UTF-8
 permalink: /:year/:month/:title.html
 exclude: ['README.md', 'deploy']
