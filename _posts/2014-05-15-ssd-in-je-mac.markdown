@@ -16,3 +16,5 @@ Ik heb het zelf al meerdere keren gedaan en al diverse vrienden en familieleden 
 10. Deze stap is optioneel, maar om de levensduur van je SSD te verlengen kun je [Trim Enabler](http://www.cindori.org/software/trimenabler/) installeren en ondersteuning voor TRIM inschakelen voor je SSD. In dit geval voldoet een gratis, ongeregistreerde versie van Trim Enabler. Start Trim Enabler en schakel op het eerste tabblad ondersteuning voor TRIM in. Het is slim om op het laatste tabblad met instellingen ook het controleren van de TRIM-ondersteuning bij het opstarten van je Mac in te schakelen, want updates van OS X kunnen de TRIM-patch ongedaan maken. Als dat gebeurt krijg je een melding en de mogelijkheid om de TRIM-ondersteuning opnieuw in te schakelen.
 
 Woehoe! Alles is nu snel!
+
+P.S. Als alles goed gegaan is kun je de harde schijf in de USB-behuizing nu wissen en voor andere dingen gebruiken. Time Machine back-ups bijvoorbeeld, als daar nog niet aan deed.
