@@ -4,7 +4,7 @@ title: SSD in je Mac
 ---
 Ik heb het zelf al meerdere keren gedaan en al diverse vrienden en familieleden geadviseerd: als je nog een harde schijf in Mac hebt zitten, vervang deze dan zo snel mogelijk door een SSD. Je drie jaar oude machine voelt naderhand weer als nieuw!
 
-1. Koop een 2,5" SSD. Momenteel lijken de Samsing 840 EVO SSD's de beste prijs/grootte-verhouding te hebben, maar je kan altijd de [Tweakers Pricewatch](http://www.tweakers.net/pricewatch) er even bij pakken.
+1. Koop een 2,5" SSD. Momenteel lijken de Samsung 840 EVO SSD's de beste prijs/grootte-verhouding te hebben, maar je kan altijd de [Tweakers Pricewatch](http://www.tweakers.net/pricewatch) er even bij pakken.
 2. Koop ook meteen een USB-behuizing voor een 2,5" schijf. Die komt van pas bij het overzetten van je systeem en kan je naderhand gebruiken voor je oude harde schijf.
 3. Zet de SSD in de USB-behuizing.
 4. Installeer [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/superduperdescription.html) op je Mac. Dit programma kan allerlei handige dingen als je er een licentie voor koopt, maar voor het één-op-één klonen van een schijf voldoet een ongeregistreerde versie ook en laat dat nou net zijn wat we gaan doen. (Je kunt er ook voor kiezen om je systeem van een back-up zoals Time Machine terug te zetten, maar ik vind de route via SuperDuper! zelf het makkelijkst.)
