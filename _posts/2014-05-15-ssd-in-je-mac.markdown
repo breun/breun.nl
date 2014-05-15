@@ -17,4 +17,4 @@ Ik heb het zelf al meerdere keren gedaan en al diverse vrienden en familieleden 
 
 Woehoe! Alles is nu snel!
 
-P.S. Als alles goed gegaan is kun je de harde schijf in de USB-behuizing nu wissen en voor andere dingen gebruiken. Time Machine back-ups bijvoorbeeld, als daar nog niet aan deed.
+P.S. Als alles goed gegaan is kun je de harde schijf in de USB-behuizing nu wissen en voor andere dingen gebruiken. Time Machine back-ups bijvoorbeeld, als je daar nog niet aan deed.
