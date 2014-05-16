@@ -9,7 +9,7 @@ Ik heb het zelf al meerdere keren gedaan en al diverse vrienden en familieleden 
 3. Zet de SSD in de USB-behuizing.
 4. Installeer [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/superduperdescription.html) op je Mac. Dit programma kan allerlei handige dingen als je er een licentie voor koopt, maar voor het één-op-één klonen van een schijf voldoet een ongeregistreerde versie ook en laat dat nou net zijn wat we gaan doen. (Je kunt er ook voor kiezen om je systeem van een back-up zoals Time Machine terug te zetten, maar ik vind de route via SuperDuper! zelf het makkelijkst.)
 5. Start SuperDuper en kies ervoor alles van de harde schijf naar de SSD te kopiëren. SuperDuper zal ervoor zorgen dat de SSD ook opstartbaar gemaakt wordt.
-6. Wacht tot de kloon klaar is. Dat kan wel even duren...
+6. Wacht tot de kloon klaar is. Dat kan wel een paar uur duren, afhankelijk van hoeveel er op je harde schijf staat.
 7. Haal de harde schijf uit je Mac en de SSD uit de USB-behuizing. Op [iFixit](http://www.ifixit.com/Device/Mac) kun je handige geïllustreerde handleidingen vinden voor jouw model Mac. Een MacBook is trouwens wel wat makkelijker dan een iMac, maar ook dat is met het juiste gereedschap wel te doen. Een Torx-schroevendraaier in de juiste maat heb je misschien niet in huis, dus koop (€2-3) of leen er eentje.
 8. Zet de SSD in je Mac en de harde schijf in de USB-behuizing.
 9. Als de ventilator in je Mac continu op volle snelheid begint te blazen, ook wanneer de processor verder helemaal niet druk bezig is, installeer je [SSD Fan Control](http://exirion.net/ssdfanctrl/). Start het programma eenmalig op en zet Fan Control op SMART.
