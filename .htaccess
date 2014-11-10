@@ -9,7 +9,11 @@ RewriteEngine on
 
 # Force redirect to breun.nl
 RewriteCond %{HTTP_HOST} !^breun\.nl$ [NC]
-RewriteRule ^(.*)$ http://breun.nl/$1 [R=301,L]
+RewriteRule ^(.*)$ https://breun.nl/$1 [R=301,L]
+
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://breun.nl/$1 [R=301,L]
 
 # Redirect old Atom/RSS URLs
 RewriteRule ^(atom|rss)\.xml$ /feed.xml [R=301,L]
