@@ -2,7 +2,7 @@
 layout: post
 title: SSD in je Mac
 ---
-Ik heb het zelf al meerdere keren gedaan en al diverse vrienden en familieleden geadviseerd: als je nog een harde schijf in Mac hebt zitten, vervang deze dan zo snel mogelijk door een SSD (Solid State Drive). Je drie jaar oude machine voelt naderhand weer als nieuw!
+Ik heb het zelf al meerdere keren gedaan en al diverse vrienden en familieleden geadviseerd: als je nog een harde schijf in je Mac hebt zitten, vervang deze dan zo snel mogelijk door een SSD (Solid State Drive). Je drie jaar oude machine voelt naderhand weer als nieuw!
 
 1. Koop een 2,5" SSD. Momenteel lijken de Samsung 840 EVO SSD's de beste prijs/opslagruimte-verhouding te hebben, maar je kan altijd de [Tweakers Pricewatch](http://www.tweakers.net/pricewatch) er even bij pakken.
 2. Koop ook meteen een USB-behuizing voor een 2,5" schijf. Die komt van pas bij het overzetten van je systeem en kan je naderhand gebruiken voor je oude harde schijf.
