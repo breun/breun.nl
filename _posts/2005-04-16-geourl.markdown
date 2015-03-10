@@ -8,4 +8,4 @@ categories:
 ---
 Hee, da's geinig. Na jezelf aangemeld te hebben bij <a href="http://geourl.org/">GeoURL</a> kun je zien welke sites er, geografisch gezien, bij je in de buurt zijn. En welke sites er dan weer in de buurt van die sites zijn. Etcetera.
 
-Bekijk bijvoorbeeld eens <a href="http://geourl.org/near/?p={{ site.url }}/">mijn online omgeving</a>.
+Bekijk bijvoorbeeld eens <a href="http://geourl.org/near/?p=/">mijn online omgeving</a>.

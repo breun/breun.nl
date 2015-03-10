@@ -25,4 +25,15 @@ layout: default
     </header>
     {{ content }}
   </article>
+  <nav class="post">
+    {% if page.previous %}
+    &laquo; <a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.previous and page.next %}
+    &mdash;
+    {% endif %}
+    {% if page.next %}
+    <a rel="next" href="{{ page.next.url }}">{{ page.next.title }}</a> &raquo;
+    {% endif %}
+  </nav>
 </main>

@@ -13,4 +13,4 @@ Maar wat ik vandaag hoorde slaat toch echt alles: het Russische <a href="http://
 
 En nu luistert mijn moeder ineens naar minimal techno...
 
-<img src="{{ site.url }}/images/grat002art-02-monotone-m3d.jpg" width="400" height="300" alt="Artwork voor Sascha MÃ¼ller's monotone/m3d" />
+<img src="/images/grat002art-02-monotone-m3d.jpg" width="400" height="300" alt="Artwork voor Sascha MÃ¼ller's monotone/m3d" />

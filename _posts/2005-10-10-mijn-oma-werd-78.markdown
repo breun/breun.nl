@@ -9,6 +9,6 @@ categories:
 - humor
 - fotografie
 ---
-<img src="{{ site.url }}/images/oma_iBook.jpg" width="401" height="480" alt="Oma met iBook" />
+<img src="/images/oma_iBook.jpg" width="401" height="480" alt="Oma met iBook" />
 
 Is ze niet hip?

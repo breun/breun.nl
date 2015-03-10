@@ -10,15 +10,15 @@ Zaterdag 8 november was er een re&uuml;nie bij de <a href="http://www.paulusgroe
 
 Tijdens het eerste gedeelte van re&uuml;nie, in het aangrenzende schoolgebouw, was ook een kombij ingelast. Zie hier foto's van het dynamische duo Jan en Nils (soms ook beter bekend als Three Feet Superstar, maar niet in deze setting) die er, zonder voorbereiding, even een paar oude krakers uitgooien. Let vooral ook op Robert, die vol overgave meezingt, en zijn bevallige achtergrondzangeressen.
 
-<img alt="" src="{{ site.url }}/images/paulusreunie1.jpg" width="400" height="300" />
+<img alt="" src="/images/paulusreunie1.jpg" width="400" height="300" />
 
-<img alt="" src="{{ site.url }}/images/paulusreunie2.jpg" width="400" height="300" />
+<img alt="" src="/images/paulusreunie2.jpg" width="400" height="300" />
 
 Later op de avond verhuisde het hele gebeuren naar de loods (of de Kelder, zoals sommigen het clubhuis hardnekkig blijven noemen). Daar zette een echt oude rot zich op een gegeven moment achter de piano en ik greep de gitaar. Toen werd het pas &eacute;cht gezellig.
 
-<img alt="" src="{{ site.url }}/images/paulusreunie3.jpg" width="400" height="300" />
+<img alt="" src="/images/paulusreunie3.jpg" width="400" height="300" />
 
-<img alt="" src="{{ site.url }}/images/paulusreunie4.jpg" width="400" height="300" />
+<img alt="" src="/images/paulusreunie4.jpg" width="400" height="300" />
 
 Achtergrondkoor op onderste foto (v.l.n.r.): Katja, Jan van Amsterdam, Lilian, Patricia en oude rot nummer 2. Het werd een echt Paulusfeestje: om 10:30 de volgende morgen was ik thuis (bij mijn ouders).
 

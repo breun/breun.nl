@@ -6,6 +6,6 @@ mt_id: 743
 categories:
 - fotografie
 ---
-<img src="{{ site.url }}/images/oog.jpg" width="400" height="300" alt="Oog van breun" />
+<img src="/images/oog.jpg" width="400" height="300" alt="Oog van breun" />
 
 <small>Foto door <a href="http://www.livejournal.com/~nieske/">Nieske</a></small>

@@ -6,18 +6,18 @@ mt_id: 632
 categories:
 - fotografie
 ---
-<img src="{{ site.url }}/images/gezwam1.jpg" width="400" height="300" />
+<img src="/images/gezwam1.jpg" width="400" height="300" />
 
-<img src="{{ site.url }}/images/gezwam2.jpg" width="400" height="300" />
+<img src="/images/gezwam2.jpg" width="400" height="300" />
 
-<img src="{{ site.url }}/images/gezwam3.jpg" width="400" height="300" />
+<img src="/images/gezwam3.jpg" width="400" height="300" />
 
-<img src="{{ site.url }}/images/gezwam4.jpg" width="400" height="300" />
+<img src="/images/gezwam4.jpg" width="400" height="300" />
 
-<img src="{{ site.url }}/images/gezwam5.jpg" width="400" height="300" />
+<img src="/images/gezwam5.jpg" width="400" height="300" />
 
-<img src="{{ site.url }}/images/gezwam6.jpg" width="400" height="300" />
+<img src="/images/gezwam6.jpg" width="400" height="300" />
 
-<img src="{{ site.url }}/images/gezwam7.jpg" width="400" height="300" />
+<img src="/images/gezwam7.jpg" width="400" height="300" />
 
 <small>Landgoed Bornia</small>

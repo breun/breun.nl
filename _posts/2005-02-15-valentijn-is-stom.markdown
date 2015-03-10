@@ -6,6 +6,6 @@ mt_id: 661
 categories:
 - dagboek
 ---
-<img src="{{ site.url }}/images/valentijn.jpg" alt="Indoor picknick" width="400" height="300" />
+<img src="/images/valentijn.jpg" alt="Indoor picknick" width="400" height="300" />
 
 Valentijn is uiteraard stom, maar indoor picknicks zijn dat niet.

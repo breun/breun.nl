@@ -8,4 +8,4 @@ categories:
 ---
 <a href="http://nieske.livejournal.com/">Nieske</a> vindt me <a href="http://wiki.ehow.com/Create-a-Product-Box-in-Photoshop">een doos</a>.
 
-<img src="{{ site.url }}/images/nils-doos.png" width="400" alt="Nils is een doos" />
+<img src="/images/nils-doos.png" width="400" alt="Nils is een doos" />

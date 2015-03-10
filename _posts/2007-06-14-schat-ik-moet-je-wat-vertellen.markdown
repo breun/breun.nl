@@ -8,4 +8,4 @@ categories:
 ---
 Ik heb een ander.
 
-<img src="{{ site.url }}/images/macbook_black.jpg" width="360" height="225" alt="Zwarte MacBook" />
+<img src="/images/macbook_black.jpg" width="360" height="225" alt="Zwarte MacBook" />

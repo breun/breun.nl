@@ -8,7 +8,7 @@ categories:
 ---
 Ik herinnerde me vanavond de film <a href="http://us.imdb.com/title/tt0116922/">Lost Highway</a> van <a href="http://www.davidlynch.com/">David Lynch</a>. Ik herinnerde me met name de scene met de telefoon. Ik opende mijn DivX exemplaar (ik wil nog steeds de dvd eens kopen) en spoelde, alsof ik wist waar in de film het zat, met &eacute;&eacute;n muisklik precies naar het juiste moment in de film (0:27:45).
 
-<img alt="Bleke man" src="{{ site.url }}/images/losthighway.jpg" width="400" height="190" />
+<img alt="Bleke man" src="/images/losthighway.jpg" width="400" height="190" />
 
 Fred Madison (<a href="http://us.imdb.com/name/nm0000597/">Bill Pullman</a>) komt een mysterieuze bleke man met constant opengesperde ogen (Mystery Man, gespeeld door <a href="http://us.imdb.com/name/nm0086706/">Robert Blake</a>) tegen op een feestje.
 

@@ -8,4 +8,4 @@ categories:
 ---
 Check dit: <a href="http://www.youthagainstsudoku.com/index_en.html">The Anti-Sudoku Manifest</a>. Ik wil best zo'n <a href="http://www.youthagainstsudoku.com/mallisto.html">Youth Against Sudoku t-shirt</a>!
 
-<img src="{{ site.url }}/images/youth_against_sudoku.jpg" width="333" height="500" alt="Youth Against Sudoku t-shirt" />
+<img src="/images/youth_against_sudoku.jpg" width="333" height="500" alt="Youth Against Sudoku t-shirt" />

@@ -9,4 +9,4 @@ categories:
 ---
 Nieuw op <a href="http://www.last.fm/">last.fm</a>: de Taste-o-meter.
 
-<img src="{{ site.url }}/images/taste-o-meter.png" width="180" height="223" alt="De Taste-o-meter vindt Nieske ook super!" />
+<img src="/images/taste-o-meter.png" width="180" height="223" alt="De Taste-o-meter vindt Nieske ook super!" />

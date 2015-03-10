@@ -11,6 +11,6 @@ Morgen wordt ie pas officieel aangekondigd, maar ik draai 'm al: <a href="http:/
 <pre>[root@breuniac root]# cat /etc/fedora-release
 Fedora Core release 2 (Tettnang)</pre>
 
-<img src="{{ site.url }}/images/fedora2.png" width="153" height="144" alt="Fedora 2 logo" />
+<img src="/images/fedora2.png" width="153" height="144" alt="Fedora 2 logo" />
 
 Offici&euml;le torrents: <a href="http://torrent.dulug.duke.edu/">http://torrent.dulug.duke.edu/</a>

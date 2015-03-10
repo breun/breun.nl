@@ -8,6 +8,6 @@ categories:
 ---
 En de hemel is alle dagen van het jaar 24 uur per dag geopend!
 
-<img src="{{ site.url }}/images/apple_glass_cube.jpg" width="400" height="273" alt="Apple Glass Cube" />
+<img src="/images/apple_glass_cube.jpg" width="400" height="273" alt="Apple Glass Cube" />
 
 Zie meer <a href="http://www.appleinsider.com/article.php?id=1759">exclusive photos from the Apple Store Fifth Ave</a>.

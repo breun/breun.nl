@@ -6,11 +6,11 @@ mt_id: 667
 categories:
 - computers
 ---
-<img alt="Apple iBook G4" src="{{ site.url }}/images/ibookg4.jpg" width="400" height=257" />
+<img alt="Apple iBook G4" src="/images/ibookg4.jpg" width="400" height=257" />
 
 Afgelopen vrijdag heb ik een <a href="http://www.apple.com/nl/ibook/">12" iBook G4</a> besteld. Hopen dat ie snel bezorgd wordt.
 
-<img alt="Apple iMac G5" src="{{ site.url }}/images/imacg5.jpg" width="400" height=250" />
+<img alt="Apple iMac G5" src="/images/imacg5.jpg" width="400" height=250" />
 
 Vandaag was ik bij mijn ouders en ik liet m'n moeder de <a href="http://www.apple.com/nl/imac/">iMac G5</a> zien. Ze is meteen begonnen met sparen.
 

@@ -8,4 +8,4 @@ categories:
 ---
 14 mei waren Nils en Patricia op een leuk feestje in caf&eacute; <a href="http://www.cafeflitz.nl/">De Flitz</a> ter ere van de 31e verjaardag van <a href="http://www.biton.nl/">Biton</a>. Net een sprookje.
 
-<img src="{{ site.url }}/images/Nils_en_Patricia.jpg" width="400" height="580" alt="Nils en Patricia in De Flitz" />
+<img src="/images/Nils_en_Patricia.jpg" width="400" height="580" alt="Nils en Patricia in De Flitz" />

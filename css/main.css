@@ -170,6 +170,10 @@ footer .rss img {
 /*
 /*****************************************************************************/
 
+nav.post {
+  margin-top: 2em;
+}
+
 /* standard */
 article pre {
   border: 1px solid #ddd;

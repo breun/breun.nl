@@ -14,4 +14,4 @@ categories:
 * Entree: **€9,00**
 * Reserveren: [info@orkestnotabene.nl](mailto:info@orkestnotabene.nl)
 
-![Flyer Orkest Nota Bene Sounds of Stories]({{ site.url }}/images/Sounds%20of%20Stories%20Nota%20Bene%202013.jpg)
+![Flyer Orkest Nota Bene Sounds of Stories](/images/Sounds%20of%20Stories%20Nota%20Bene%202013.jpg)

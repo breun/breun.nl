@@ -8,7 +8,7 @@ categories:
 ---
 Het is weer de laatste vrijdag van juli, oftewel: <a href="http://www.sysadmindag.nl/">SysAdminDag</a>!
 
-<a href="http://www.sysadmindag.nl/"><img src="{{ site.url }}/images/sysadmindag2007.png" width="279" alt="SysAdminDag 2007" /></a>
+<a href="http://www.sysadmindag.nl/"><img src="/images/sysadmindag2007.png" width="279" alt="SysAdminDag 2007" /></a>
 
 "Bemin je sysadmin"!
 

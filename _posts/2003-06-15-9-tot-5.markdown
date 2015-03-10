@@ -10,8 +10,8 @@ Afgelopen nacht heb ik samen met Martijn weer een feestje in <a href="http://www
 
 Deze feestjes zijn ook altijd wat specialer dan andere. Ze duren meestal langer (mensen kunnen blijven slapen en nemen massaal tenten enzo mee) en er zijn meer mensen. Ohja, en ze dragen daar altijd naamkaartjes (met screennames). Dus wij ook: DJ 1 en DJ A (that's me).
 
-<img src="{{ site.url }}/images/dj1_en_djA.jpg" alt="Martijn en Nils, de discjockeys" />
+<img src="/images/dj1_en_djA.jpg" alt="Martijn en Nils, de discjockeys" />
 
 Lekker hoor, zo'n baantje van 21:00 tot 5:00... Hier werd het alweer licht bij de vuurkorf.
 
-<img src="{{ site.url }}/images/vuurkorf.jpg" alt="Vuurkorf bij het ochtendgloren" />
+<img src="/images/vuurkorf.jpg" alt="Vuurkorf bij het ochtendgloren" />

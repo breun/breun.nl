@@ -16,4 +16,4 @@ U bent van harte uitgenodigd voor onze voorstellingen.
 * Entree: **€9,00**
 * Reserveren: [info@orkestnotabene.nl](mailto:info@orkestnotabene.nl)
 
-![Flyer Orkest Nota Bene Helden]({{ site.url }}/images/Nota%20Bene%20-%20Helden.png)
+![Flyer Orkest Nota Bene Helden](/images/Nota%20Bene%20-%20Helden.png)

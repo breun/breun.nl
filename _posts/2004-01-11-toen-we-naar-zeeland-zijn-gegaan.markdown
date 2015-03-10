@@ -18,4 +18,4 @@ Verder veel tv gekeken: <a href="http://www.imdb.com/title/tt0147800/">10 Things
 
 Om het feest helemaal compleet te maken, hebben we op de terugweg bij een tankstation nog een doosje <a href="http://www.tictac.cz/">Tic Tac</a> gekocht. Elke Tic Tac staken we eerst in ons neusgat. We waren tenslotte naar Zeeland gegaan.
 
-<img alt="Tic Tac" src="{{ site.url }}/images/tictac.jpg" width="265" height="303" />
+<img alt="Tic Tac" src="/images/tictac.jpg" width="265" height="303" />

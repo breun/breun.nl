@@ -8,7 +8,7 @@ categories:
 ---
 Enkele maanden geleden kreeg ik op mijn verjaardag een financiële bijdrage voor een iPod. Die heb ik nog steeds niet aangeschaft, omdat ik wilde wachten op een update van de iPod-lijn. En die is er dan sinds gisteren eindelijk:
 
-<img alt="iPod line-up per 5 september 2007" src="{{ site.url }}/images/iPods_20070905.png" width="520" height="355" />
+<img alt="iPod line-up per 5 september 2007" src="/images/iPods_20070905.png" width="520" height="355" />
 
 Ik riep altijd dat ik een iPod wilde waar ik al mijn muziek op kan zetten. Momenteel beslaat mijn iTunes bibliotheek zo'n 25 GB, maar ik heb nog steeds niet al mijn cd's geïmporteerd en ik zal er de komende tijd ook nog wel een stuk of wat aanschaffen. Een gigabyte of 30 was dus toch wel het minste wat ik nodig had. Mijn hoop was dat de <a href="http://www.apple.com/nl/ipodnano/">iPod nano</a> een model met een capaciteit van 32 GB zou verschijnen, maar helaas is 8 GB nog steeds het maximum.
 
