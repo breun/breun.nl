@@ -4,4 +4,4 @@ highlighter: pygments
 encoding: UTF-8
 permalink: /:year/:month/:title.html
 exclude: ['README.md', 'deploy']
-hostname: breun.nl
+url: https://breun.nl

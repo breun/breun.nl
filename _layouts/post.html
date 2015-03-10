@@ -1,11 +1,27 @@
 ---
 layout: default
 ---
+{% assign month = page.date | date: "%-m" %}
 <main>
   <article>
     <header>
       <h1>{{ page.title }}</h1>
-      <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}</time>
+      <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%-d" }} 
+{% case month %}
+  {% when '1' %}januari
+  {% when '2' %}februari
+  {% when '3' %}maart
+  {% when '4' %}april
+  {% when '5' %}mei
+  {% when '6' %}juni
+  {% when '7' %}juli
+  {% when '8' %}augustus
+  {% when '9' %}september
+  {% when '10' %}oktober
+  {% when '11' %}november
+  {% when '12' %}december
+{% endcase %} 
+{{ page.date | date: "%Y" }}</time>
     </header>
     {{ content }}
   </article>
