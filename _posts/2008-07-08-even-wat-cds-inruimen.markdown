@@ -8,4 +8,4 @@ categories:
 ---
 Na jaren IKEA-bakken (17 stuks) gebruikt te hebben voor mijn cd's werd het tijd voor iets anders.
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/EXjTjZKXFVs"></param><embed src="http://www.youtube.com/v/EXjTjZKXFVs" type="application/x-shockwave-flash" width="425" height="350"></embed></object>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/EXjTjZKXFVs?showinfo=0" frameborder="0" allowfullscreen></iframe>

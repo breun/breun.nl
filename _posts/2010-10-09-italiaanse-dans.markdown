@@ -11,6 +11,4 @@ Semi-collega Bert Leunis speelt viool, kwam kijken naar een concert van <a href=
 
 Nee, het is niet loepzuiver, maar het is mooi wel Italiaanse dansmuziek van honderden jaren oud!
 
-<object width="480" height="289"><param name="movie" value="http://www.youtube.com/v/efDjImgHaso?fs=1&amp;hl=nl_NL"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/efDjImgHaso?fs=1&amp;hl=nl_NL" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="289"></embed></object>
-
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/7cvteXV6wuI?fs=1&amp;hl=nl_NL"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7cvteXV6wuI?fs=1&amp;hl=nl_NL" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/efDjImgHaso?showinfo=0" frameborder="0" allowfullscreen></iframe>

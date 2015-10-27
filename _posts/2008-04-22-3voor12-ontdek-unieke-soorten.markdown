@@ -10,16 +10,16 @@ Op 15 mei bestaat <a href="http://3voor12.vpro.nl/">VPRO's 3VOOR12</a> 10 jaar e
 
 De Trek naar het Zuiden (met <a href="http://www.voicst.com/">Voicst</a>)
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/j3GSLr_6Etk&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/j3GSLr_6Etk&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j3GSLr_6Etk?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 De Jager (met <a href="http://www.djpromo.nl/">DJ Promo</a>)
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/h4WdYQWS_K4&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/h4WdYQWS_K4&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h4WdYQWS_K4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 De Drinkplaats (met <a href="http://www.gemmusic.nl/">GEM</a>)
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/uIYbnb9eDSo&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/uIYbnb9eDSo&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uIYbnb9eDSo?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Unieke Geluiden (met <a href="http://www.ourmindstate.com/">Pete Philly & Perquisite</a>)
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/_atKxU2eIII&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/_atKxU2eIII&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_atKxU2eIII?showinfo=0" frameborder="0" allowfullscreen></iframe>
