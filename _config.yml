@@ -1,7 +1,4 @@
 name: breun
-markdown: redcarpet
-highlighter: pygments
-encoding: UTF-8
 permalink: /:year/:month/:title.html
 exclude: ['README.md', 'deploy']
 url: https://breun.nl
