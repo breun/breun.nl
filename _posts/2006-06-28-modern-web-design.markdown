@@ -7,6 +7,6 @@ categories:
 - humor
 - tech
 ---
-<a href="http://www.flickr.com/photos/pauls/172883694/"><img src="http://static.flickr.com/60/172883694_4f72df1a70.jpg" width="420" alt="Time Breakdown of Modern Web Design" /></a>
+<a href="https://www.flickr.com/photos/pauls/172883694/"><img src="https://static.flickr.com/60/172883694_4f72df1a70.jpg" width="420" alt="Time Breakdown of Modern Web Design" /></a>
 
 Ja, dat is lachen. Behalve dat je dus nooit tabellen voor layout moet gebruiken.

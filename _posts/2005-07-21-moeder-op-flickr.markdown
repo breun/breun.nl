@@ -6,4 +6,4 @@ mt_id: 700
 categories:
 - fotografie
 ---
-Volgens mij was het best een goed idee om mijn moeder voor haar verjaardag een Canon PowerShot A95 te geven. Ze heeft nu zelfs Flickr ontdekt! Ga maar eens <a href="http://www.flickr.com/photos/hannyb/">kijken</a>.
+Volgens mij was het best een goed idee om mijn moeder voor haar verjaardag een Canon PowerShot A95 te geven. Ze heeft nu zelfs Flickr ontdekt! Ga maar eens <a href="https://www.flickr.com/photos/hannyb/">kijken</a>.

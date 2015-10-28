@@ -10,4 +10,4 @@ Ik ben aan het oefenen voor een echte pedalenplank. Deze is van karton, 40 cm bi
 
 Zou ik genoeg hebben aan deze afmeting of kan ik toch beter naar 40 cm bij 60 cm om voor eventuele toekomstige uitbreidingen? Of moet ik me maar gewoon een beetje inhouden?
 
-<a href="http://www.flickr.com/photos/breun/3721561502/"><img src="http://farm4.static.flickr.com/3422/3721561502_b372d0a8fd_d.jpg" width="500" height="375" alt="Pedal Cardboard" /></a>
+<a href="https://www.flickr.com/photos/breun/3721561502/"><img src="https://farm4.static.flickr.com/3422/3721561502_b372d0a8fd_d.jpg" width="500" height="375" alt="Pedal Cardboard" /></a>

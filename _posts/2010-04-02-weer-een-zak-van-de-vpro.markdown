@@ -8,4 +8,4 @@ categories:
 ---
 Dit vind ik grappig, dus ik heb er maar een foto van gemaakt.
 
-<a href="http://www.flickr.com/photos/breun/4484768414/" title="Weer een zak van de VPRO by breun, on Flickr"><img src="http://farm5.static.flickr.com/4058/4484768414_410c4058fa.jpg" width="375" height="500" alt="Weer een zak van de VPRO" /></a>
+<a href="https://www.flickr.com/photos/breun/4484768414/" title="Weer een zak van de VPRO by breun, on Flickr"><img src="https://farm5.static.flickr.com/4058/4484768414_410c4058fa.jpg" width="375" height="500" alt="Weer een zak van de VPRO" /></a>

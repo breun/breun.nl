@@ -21,4 +21,4 @@ dan leggen we nog een scrabbeltje.
 
 Ingmar Heytze</blockquote>
 
-(<a href="http://www.flickr.com/photos/hannyb/125555101/">foto</a>)
+(<a href="https://www.flickr.com/photos/hannyb/125555101/">foto</a>)

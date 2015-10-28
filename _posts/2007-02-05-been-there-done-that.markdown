@@ -12,7 +12,7 @@ In New York hielden we met een probeerversie <a href="http://www.codingmonkeys.d
 
 We aten twee keer in het vliegtuig, behalve Pim (drie keer). Aangekomen in New York namen we de airtrain (onbemande metro) richting <a href="http://en.wikipedia.org/wiki/Manhattan">Manhattan</a>. 's Avonds aten we voor de eerste keer 'veggie burgers' bij <a href="http://www.yelp.com/biz/lbV2Hr0hPVFJBO-_GGRe8g">Strictly Roots</a>, waar ze niks serveren dat kruipt, loopt, zwemt of vliegt.
 
-<a href="http://www.flickr.com/photos/breun/311158978/"><img src="http://farm1.static.flickr.com/100/311158978_e865510048_m.jpg" alt="Strictly Roots" /></a>
+<a href="https://www.flickr.com/photos/breun/311158978/"><img src="https://farm1.static.flickr.com/100/311158978_e865510048_m.jpg" alt="Strictly Roots" /></a>
 
 's Avonds toch nog even naar <a href="http://en.wikipedia.org/wiki/Times_Square">Times Square</a> gegaan met de metro en een gigantische <a href="http://www.toysrus.com/">Toys 'r Us</a> binnengewandeld (reuzenrad <em>in</em> de winkel) en Spiderman stond ergens op de middenberm. Ook nog even doorgewandeld naar <a href="http://en.wikipedia.org/wiki/Rockefeller_Center">Rockefeller Center</a> en een Nintendo Store gevonden die al dicht was, maar we zagen toen wel voor het eerst de Wii in levende lijve.
 
@@ -38,17 +38,17 @@ Na het eten nog naar de <a href="http://www.grandcentralterminal.com/">Grand Cen
 
 <h2>Maandag 13 november 2006</h2>
 
-<a href="http://www.flickr.com/photos/breun/297068043/"><img src="http://farm1.static.flickr.com/103/297068043_d7d055591c_m.jpg" alt="Op het terras van de Apple Store" /></a>
+<a href="https://www.flickr.com/photos/breun/297068043/"><img src="https://farm1.static.flickr.com/103/297068043_d7d055591c_m.jpg" alt="Op het terras van de Apple Store" /></a>
 
 Op weg naar het <a href="http://www.moma.org/">Museum of Modern Art (MoMA)</a> kwamen we op de een of andere manier weer op het terras van de Apple Store op Fifth Avenue terecht. In MoMA zijn we tot sluitingstijd bezig geweest.
 
-<a href="http://www.flickr.com/photos/breun/297069471/"><img src="http://farm1.static.flickr.com/105/297069471_0fbaaf9627_m.jpg" alt="Roltrap in MoMA" /></a>
+<a href="https://www.flickr.com/photos/breun/297069471/"><img src="https://farm1.static.flickr.com/105/297069471_0fbaaf9627_m.jpg" alt="Roltrap in MoMA" /></a>
 
-<a href="http://www.flickr.com/photos/breun/297070118/"><img src="http://farm1.static.flickr.com/109/297070118_3a1380a8a3_m.jpg" alt="Meisje in MoMA" /></a>
+<a href="https://www.flickr.com/photos/breun/297070118/"><img src="https://farm1.static.flickr.com/109/297070118_3a1380a8a3_m.jpg" alt="Meisje in MoMA" /></a>
 
 's Avonds aten we weer een 16" pizza ("pie" zoals ze dat daar noemen), deze keer bij <a href="http://www.mozzarellis.com/">Mozzarelli's</a>. Was erg lekker en een medewerker van de tent was erg geïnteresseerd in ons en onze laptops. Ik geloof dat hij dacht dat we een hackersgroep waren ofzo, maar hij meende er wel over mee te kunnen praten aangezien zijn vriend een Google t-shirt droeg.
 
-<a href="http://www.flickr.com/photos/breun/297070961/"><img src="http://farm1.static.flickr.com/110/297070961_ac12e6bc1b_m.jpg" alt="Pizza bij Mozzarelli's" /></a>
+<a href="https://www.flickr.com/photos/breun/297070961/"><img src="https://farm1.static.flickr.com/110/297070961_ac12e6bc1b_m.jpg" alt="Pizza bij Mozzarelli's" /></a>
 
 Pim en Eelco gingen 's avonds nog naar een concert van <a href="http://www.dragcity.com/bands/newsom.html">Joanna Newsom</a> in <a href="http://www.websterhall.com/">Webster Hall</a>, maar ik en Chris maakten er een avondje gezellig internetten in het hostel van.
 
@@ -56,7 +56,7 @@ Pim en Eelco gingen 's avonds nog naar een concert van <a href="http://www.dragc
 
 We begonnen de dag met weer een beetje loos rondsurfen. 's Middags weer naar Strictly Roots ("Roots" voor intimi) voor de lunch. Pim toog naar Chinatown om een bus naar Boston te boeken en de rest ging shoppen.
 
-<a href="http://www.flickr.com/photos/breun/311158811/"><img src="http://farm1.static.flickr.com/116/311158811_943ceff0ce_m.jpg" alt="Bus naar Boston" /></a>
+<a href="https://www.flickr.com/photos/breun/311158811/"><img src="https://farm1.static.flickr.com/116/311158811_943ceff0ce_m.jpg" alt="Bus naar Boston" /></a>
 
 Rond etenstijd nog even snel het <a href="http://www.esbnyc.com/">Empire State Building</a> 'beklommen' (twee liften en wat lopen). Het was gelukkig helemaal niet druk, maar aan de hoeveelheid zig-zaghekjes te zien is dat wel eens anders. Meesterlijk uitzicht, dat wel. Nadat we weer terug op aarde waren gingen we op zoek naar een plek om wat te eten, maar het was eigenlijk al best laat en de meeste restaurants waren geen optie meer. De <a href="http://www.wendys.com/">Wendy's</a> waar we uiteindelijk terecht kwamen leek aan de buitenkant nog wel een goed ("echte Amerikaanse hamburgers"), maar bleek een regelrechte ramp. Iets vegetarisch hadden ze niet, de hamburgers waren lauw en er zat geen suiker in de ice tea, wat echt heel erg smerig is.
 
@@ -64,7 +64,7 @@ Rond etenstijd nog even snel het <a href="http://www.esbnyc.com/">Empire State B
 
 Geniale bagelshop gevonden in de Upper East Side. Dus bagels gehaald en gaan wandelen en foto's maken in <a href="http://www.centralparknyc.org/">Central Park</a>. 
 
-<a href="http://www.flickr.com/photos/breun/311158510/"><img src="http://farm1.static.flickr.com/122/311158510_0c9311cb3e_m.jpg"></a>
+<a href="https://www.flickr.com/photos/breun/311158510/"><img src="https://farm1.static.flickr.com/122/311158510_0c9311cb3e_m.jpg"></a>
 
 Na onze wandeling richting Alphabet Town (?) gegaan en de bagelshop die we daar aantroffen zag er zo goed uit (en we hadden natuurlijk flink gewandeld) dat we maar weer aan de bagels (en gratis draadloos internet) zijn gegaan. We wilden naar de film en wat kon er gepaster zijn dan <a href="http://www.deathofapresident.com/">Death of a President</a> (in het indie <a href="http://www.twoboots.com/pioneer/">Pioneer Theatre</a>).
 
@@ -74,13 +74,13 @@ Na de film nog even in Tompkins Square Park rondgehangen met een zak chips op de
 
 Chris stond vroeg op om Central Park rond te rennen, terwijl de rest nog sliep. 's Middags 'subs' gegeten bij <a href="http://www.subway.com/">Subway</a> en daarna dachten we wel klaar te zijn voor het gigantische <a href="http://www.amnh.org/">American Museum of Natural History</a>. We begonnen bij het <a href="http://www.amnh.org/rose/">Rose Center for Earth and Space</a>, dat er een onderdeel van is, maar waren daar eigenlijk al de halve dag mee bezig. Ook nog een leuke video gezien in het 'videodome' (projectiescherm dat als een halve bol boven de zaal hangt).
 
-<a href="http://www.flickr.com/photos/breun/311158603/"><img src="http://farm1.static.flickr.com/103/311158603_bad40bd6a1_m.jpg" alt="Rose Center" /></a>
+<a href="https://www.flickr.com/photos/breun/311158603/"><img src="https://farm1.static.flickr.com/103/311158603_bad40bd6a1_m.jpg" alt="Rose Center" /></a>
 
 Daarna toch nog maar even het eigenlijke museum ingedoken en de verdieping met dinosauriërs rondgewandeld.
 
-<a href="http://www.flickr.com/photos/breun/311158703/"><img src="http://farm1.static.flickr.com/103/311158703_ba19106d63_m.jpg" alt="Teeth" /></a>
+<a href="https://www.flickr.com/photos/breun/311158703/"><img src="https://farm1.static.flickr.com/103/311158703_ba19106d63_m.jpg" alt="Teeth" /></a>
 
-<a href="http://www.flickr.com/photos/breun/311158764/"><img src="http://farm1.static.flickr.com/110/311158764_75d8d6026d_m.jpg" alt="View" /></a>
+<a href="https://www.flickr.com/photos/breun/311158764/"><img src="https://farm1.static.flickr.com/110/311158764_75d8d6026d_m.jpg" alt="View" /></a>
 
 's Avonds een bezoekje gebracht aan <a href="http://www.macys.com/">Macy's</a>, een mega-warenhuis van 4 blokken lang. Avondeten was bij de McDonald's, maar niet zomaar bij McDonald's, maar mooi wel de McDonald's <em>in Macy's</em> (er zit ook een pizzeria, Ben & Jerry's, etc. in die winkel verstopt). Spijkerbroeken van $300 (vastgeketend aan het rek) hadden ze ook... De rest van onze aankopen deden we dus elders (gewoon bij H&M, maar dat voelt toch bijzonder in het buitenland). Pim en ik kochten schoenen bij Footlocker (tweede paar 50% korting namelijk en toch al een stuk goedkoper dan hier). 's Avonds werd er zeer fanatiek <a href="http://ragdollsoft.com/nball/">N-Ball</a> gespeeld in het hostel.
 
@@ -114,11 +114,11 @@ Na het eten <a href="http://en.wikipedia.org/wiki/Manhattan_Bridge">Manhattan Br
 
 <h2>Maandag 20 november 2006</h2>
 
-<a href="http://www.flickr.com/photos/breun/311158927/"><img src="http://farm1.static.flickr.com/104/311158927_f12db25740_m.jpg" alt="Guggenheim Museum" /></a>
+<a href="https://www.flickr.com/photos/breun/311158927/"><img src="https://farm1.static.flickr.com/104/311158927_f12db25740_m.jpg" alt="Guggenheim Museum" /></a>
 
 Om 11 uur 's ochtends uitgecheckt uit het hostel. Om 1 uur 's middags vertrok Pim met bus naar Boston en we zeiden doei. Chris, Eelco en ik gingen nog even het <a href="http://www.guggenheim.org/">Guggenheim Museum</a> 'doen'. We hadden daar al een paar dagen eerder voor de deur gestaan, maar vanwege een verbouwing waren toen niet alle verdieping toegankelijk. We kochten nog wat souvenirs voor de dames thuis en aten voor de laatste keer veggie burgers bij Roots. We haalden nog even onze koffers op bij het hostel en pakten de subway en vervolgens airtrain naar JFK.
 
-<a href="http://www.flickr.com/photos/breun/311159027/"><img src="http://farm1.static.flickr.com/113/311159027_21449de8f0_m.jpg" alt="Airtrain" /></a>
+<a href="https://www.flickr.com/photos/breun/311159027/"><img src="https://farm1.static.flickr.com/113/311159027_21449de8f0_m.jpg" alt="Airtrain" /></a>
 
 Ik gaf mijn laatste dollars uit aan een paar gigantiche milkshakes en we kwamen er achter dat er gewoon gratis draadloos internet te ontvangen was op het vliegveld. We trokken onze laptops en gingen lekker ergens zitten. 21:35: "Final boarding call for passengers of flight KL644 to Amsterdam." Oeps! 21:50: Met losse veters het vliegtuig in gesprongen (je moet je schoenen uittrekken bij de security check).
 

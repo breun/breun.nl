@@ -7,6 +7,6 @@ categories:
 - dagboek
 - fotografie
 ---
-Hoera, een <a href="http://www.flickr.com/photos/breun/sets/72157620001990336/">nieuwe fiets</a>!
+Hoera, een <a href="https://www.flickr.com/photos/breun/sets/72157620001990336/">nieuwe fiets</a>!
 
-<a href="http://www.flickr.com/photos/breun/sets/72157620001990336/"><img src="http://farm4.static.flickr.com/3348/3644530434_2297017c5a_d.jpg" alt="BSP Kruis Basic" /></a>
+<a href="https://www.flickr.com/photos/breun/sets/72157620001990336/"><img src="https://farm4.static.flickr.com/3348/3644530434_2297017c5a_d.jpg" alt="BSP Kruis Basic" /></a>
