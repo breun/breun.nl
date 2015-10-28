@@ -6,7 +6,7 @@ mt_id: 940
 categories:
 - muziek
 ---
-Enkele weken geleden ontving ik een reclamefolder van <a href="http://www.feedback.nl/">Feedback</a>. Mijn oog viel op de nieuwe <a href="http://www.fender.com/products/search.php?partno=0141902338">Fender Classic Player Tele Deluxe Black Dove</a> in de kleur Crimon Red Transparent. Vandaag had ik eindelijk eens tijd om 'm uit te proberen en het was eigenlijk precies wat ik nog miste: een gitaar met een beetje meer powerrr! Met dank aan de Black Dove <a href="http://en.wikipedia.org/wiki/P-90">P-90</a>-style elementen.
+Enkele weken geleden ontving ik een reclamefolder van <a href="http://www.feedback.nl/">Feedback</a>. Mijn oog viel op de nieuwe <a href="http://www.fender.com/products/search.php?partno=0141902338">Fender Classic Player Tele Deluxe Black Dove</a> in de kleur Crimon Red Transparent. Vandaag had ik eindelijk eens tijd om 'm uit te proberen en het was eigenlijk precies wat ik nog miste: een gitaar met een beetje meer powerrr! Met dank aan de Black Dove <a href="https://en.wikipedia.org/wiki/P-90">P-90</a>-style elementen.
 
 <img alt="Fender Telecaster Deluxe" src="/images/Fender%20Telecaster%20Deluxe.jpg" width="512" />
 

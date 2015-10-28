@@ -6,7 +6,7 @@ mt_id: 915
 categories:
 - muziek
 ---
-Ik ben sinds vanmiddag de trotse eigenaar van een <a href="http://en.wikipedia.org/wiki/Fender_Jazzmaster">Fender Jazzmaster</a>: Candy Apple Red en hals met binding en block inlays!
+Ik ben sinds vanmiddag de trotse eigenaar van een <a href="https://en.wikipedia.org/wiki/Fender_Jazzmaster">Fender Jazzmaster</a>: Candy Apple Red en hals met binding en block inlays!
 
 <img alt="Fender Jazzmaster Japan Candy Apple Red block inlay" src="/images/Fender%20Jazzmaster%20Japan%20Candy%20Apple%20Red%20block%20inlay.jpg" height="600" width="200" />
 

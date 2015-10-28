@@ -6,4 +6,4 @@ mt_id: 516
 categories:
 - computers
 ---
-Ik kwam het al een hele tijd geleden tegen, maar vond het vandaag weer: het prachtige woord <a href="http://en.wikipedia.org/wiki/Blinkenlights">blinkenlights</a>. Ik moest weer even lachen om het verhaal erachter.
+Ik kwam het al een hele tijd geleden tegen, maar vond het vandaag weer: het prachtige woord <a href="https://en.wikipedia.org/wiki/Blinkenlights">blinkenlights</a>. Ik moest weer even lachen om het verhaal erachter.

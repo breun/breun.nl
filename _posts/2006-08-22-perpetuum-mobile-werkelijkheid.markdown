@@ -10,4 +10,4 @@ Het Ierse bedrijf Steorn <a href="http://www.steorn.net/en/technology.aspx?p=5">
 
 Goeie grap? Het zou wel verrekte handig zijn...
 
-Zie ook het <a href="http://en.wikipedia.org/wiki/Steorn">Steorn artikel op de Wikipedia</a>.
+Zie ook het <a href="https://en.wikipedia.org/wiki/Steorn">Steorn artikel op de Wikipedia</a>.
