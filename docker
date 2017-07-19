@@ -1,0 +1,7 @@
+#!/bin/sh
+# https://github.com/jekyll/docker
+# https://hub.docker.com/r/jekyll/jekyll/tags/
+
+export JEKYLL_VERSION=3.5.1
+#docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jekyll/jekyll:$JEKYLL_VERSION jekyll serve
+docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it jekyll/jekyll:$JEKYLL_VERSION jekyll build
