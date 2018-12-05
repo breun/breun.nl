@@ -6,7 +6,7 @@ mt_id: 667
 categories:
 - computers
 ---
-<img alt="Apple iBook G4" src="/images/ibookg4.jpg" width="400" height=257" />
+<img alt="Apple iBook G4" src="/images/ibookg4.jpg" width="400" height="257" />
 
 Afgelopen vrijdag heb ik een <a href="http://www.apple.com/nl/ibook/">12" iBook G4</a> besteld. Hopen dat ie snel bezorgd wordt.
 
