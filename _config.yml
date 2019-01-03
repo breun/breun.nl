@@ -1,6 +1,6 @@
 name: breun
 permalink: /:year/:month/:title.html
-exclude: ['README.md', 'deploy', 'docker']
+exclude: ['README.md', 'build', 'deploy']
 url: https://breun.nl
 twitter:
   consumer_key: TODO
