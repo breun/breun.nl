@@ -8,7 +8,7 @@ AddType audio/x-m4a m4a
 RewriteEngine on
 
 # Redirect moonwatch.band to Facebook page
-RewriteCond %{HTTP_HOST} moonwatch.band$ [NC]
+RewriteCond %{HTTP_HOST} moonwatch\.band$ [NC]
 RewriteRule ^(.*)$ https://www.facebook.com/moonwatch.band [R=302,L]
 
 # Force redirect to breun.nl
