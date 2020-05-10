@@ -2,6 +2,6 @@
 # https://github.com/envygeeks/jekyll-docker
 # https://hub.docker.com/r/jekyll/jekyll/tags/
 
-export JEKYLL_VERSION=4.0.0
+JEKYLL_VERSION=4.0.0
 #docker run --rm --volume="$PWD:/srv/jekyll" -it -p 127.0.0.1:4000:4000 jekyll/minimal:$JEKYLL_VERSION jekyll serve
 docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/minimal:$JEKYLL_VERSION jekyll build
