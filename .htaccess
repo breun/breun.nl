@@ -20,18 +20,3 @@ RewriteRule ^(.*)$ https://breun.nl/$1 [R=301,L]
 # Redirect old breun.nl Atom/RSS URLs to /feed.xml
 RewriteCond %{HTTP_HOST} ^breun\.nl$ [NC]
 RewriteRule ^(atom|rss)\.xml$ /feed.xml [R=301,L]
-
-# Redirect https://breun.nl/moonwatch.band to https://moonwatch.band
-RewriteCond %{HTTP_HOST} ^breun\.nl$ [NC]
-RewriteRule ^moonwatch\.band https://moonwatch.band [R=301,L]
-
-### moonwatch.band
-
-# Redirect www.moonwatch.band to moonwatch.band
-RewriteCond %{HTTP_HOST} ^www\.moonwatch\.band$ [NC]
-RewriteRule ^(.*)$ https://moonwatch.band/$1 [R=301,L]
-
-# Serve moonwatch.band from moonwatch.band folder
-RewriteCond %{HTTP_HOST} ^moonwatch\.band$ [NC]
-RewriteCond %{REQUEST_URI} !^/moonwatch\.band/
-RewriteRule ^(.*)$ /moonwatch.band/$1 [L]

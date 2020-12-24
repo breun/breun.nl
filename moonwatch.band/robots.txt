@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://wwwmoonwatch.band/sitemap.xml
-Host: https://wwwmoonwatch.band
