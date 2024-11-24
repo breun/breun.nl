@@ -1,6 +1,7 @@
 name: breun
 permalink: /:year/:month/:title.html
 exclude: ['README.md', 'build', 'deploy']
+include: ['.htaccess', '.well-known/']
 url: https://breun.nl
 twitter:
   consumer_key: TODO
