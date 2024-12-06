@@ -128,39 +128,39 @@ header time {
   color: #aaa;
 }
 
-footer {
+header {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
+  border-bottem: 4px solid #eee;
+  margin-bottom: 2em;
   overflow: hidden;
 }
 
-footer .contact {
+header .contact {
   float: left;
   margin-right: 3em;
 }
 
-footer img {
+header img {
   height: 16px; 
   width: 16px;
 }
 
-footer a {
+header a {
   color: #8085C1;
 }
 
-footer ul {
+header ul {
   list-style-type: none;
 }
 
-footer .rss {
+header .rss {
   margin-top: 1.1em;
   margin-right: -.2em;
   float: right;
 }
 
-footer .rss img {
+header .rss img {
   border: 0;
 }
 
