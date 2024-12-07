@@ -92,6 +92,13 @@ body {
   line-height: 1.5em;
 }
 
+header {
+  font-size: 80%;
+  color: #666;
+  margin-bottom: 2em;
+  overflow: hidden;
+}
+
 header a {
   font-weight: bold;
   text-decoration: none;
@@ -128,13 +135,7 @@ header time {
   color: #aaa;
 }
 
-header {
-  font-size: 80%;
-  color: #666;
-  border-bottem: 4px solid #eee;
-  margin-bottom: 2em;
-  overflow: hidden;
-}
+
 
 header .contact {
   float: left;
@@ -162,6 +163,14 @@ header .rss {
 
 header .rss img {
   border: 0;
+}
+
+footer {
+  font-size: 80%;
+  color: #666;
+  border-top: 1px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
 }
 
 /*****************************************************************************/
