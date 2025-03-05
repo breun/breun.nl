@@ -18,7 +18,7 @@ The talk was being recorded and broadcast live via the internet,
 so I could just grab the token by rewinding the live video feed a bit.
 I logged into GitHub and replaced the token in my GitHub cookie with the one that was just broadcast live,
 and sure enough: I was now Brian Vermeer on GitHub.
-Two-factor authentication authentication didn't save him, with a valid token you're already past the authentication stage.
+Two-factor authentication didn't save him, with a valid token you're already past the authentication stage.
 
 Brian was just explaining about [deserialization gadget chains](https://snyk.io/blog/serialization-and-deserialization-in-java/),
 so I decided to make a [small change](https://github.com/bmvermeer/brianvermeer.nl/commit/bd118c991ddb63b0a7bd788f6b7b926933d411ec) to the repository for his personal website,
