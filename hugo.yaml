@@ -1,7 +1,6 @@
 baseURL: "https://breun.nl/"
 title: "breun"
 locale: "en-US"
-defaultContentLanguage: "en"
 uglyURLs: true
 
 security:
@@ -30,11 +29,6 @@ outputFormats:
     baseName: "feed"
 
 outputs:
-  home:
-    - HTML
-    - RSS
-  page:
-    - HTML
   section: []
 
 markup:
