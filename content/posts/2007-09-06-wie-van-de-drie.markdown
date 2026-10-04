@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wie van de drie?
+lang: nl
 date: '2007-09-06 12:29:59 +0200'
 mt_id: 870
 categories:

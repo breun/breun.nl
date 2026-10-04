@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gezelligheid kent een tijd
+lang: nl
 date: '2004-04-13 22:25:27 +0200'
 mt_id: 589
 categories:

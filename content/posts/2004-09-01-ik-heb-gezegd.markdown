@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ik heb gezegd
+lang: nl
 date: '2004-09-01 19:20:32 +0200'
 mt_id: 620
 categories:

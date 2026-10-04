@@ -1,6 +1,7 @@
 ---
 layout: post
 title: /etc/init.d/myself restart
+lang: nl
 date: '2007-01-10 17:06:53 +0100'
 mt_id: 832
 categories:

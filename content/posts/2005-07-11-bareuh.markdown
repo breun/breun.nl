@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bareuh
+lang: nl
 date: '2005-07-11 00:41:32 +0200'
 mt_id: 696
 categories:

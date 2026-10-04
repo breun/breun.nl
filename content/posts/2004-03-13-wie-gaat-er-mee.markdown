@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wie gaat er mee?
+lang: nl
 date: '2004-03-13 14:58:27 +0100'
 mt_id: 574
 categories:

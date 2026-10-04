@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Erik de Jong in je pand
+lang: nl
 date: '2004-01-07 01:43:05 +0100'
 mt_id: 552
 categories:

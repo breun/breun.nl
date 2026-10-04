@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Epitonisch
+lang: nl
 date: '2003-05-20 15:27:43 +0200'
 mt_id: 474
 categories:

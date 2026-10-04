@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Verkrijgbaar bij IKEA
+lang: nl
 date: '2008-04-30 16:49:24 +0200'
 mt_id: 896
 categories:

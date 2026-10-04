@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Felicitatieautomatisering
+lang: nl
 date: '2006-06-04 13:22:37 +0200'
 mt_id: 780
 categories:

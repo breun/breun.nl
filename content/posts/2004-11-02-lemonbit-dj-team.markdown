@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lemonbit DJ Team
+lang: nl
 date: '2004-11-02 00:37:41 +0100'
 mt_id: 639
 categories:

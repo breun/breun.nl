@@ -1,6 +1,7 @@
 ---
 layout: post
 title: M'n moeder op Bright
+lang: nl
 date: '2007-08-20 19:15:35 +0200'
 mt_id: 866
 categories:

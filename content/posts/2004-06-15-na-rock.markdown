@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Na-rock
+lang: nl
 date: '2004-06-15 13:26:49 +0200'
 mt_id: 608
 categories:

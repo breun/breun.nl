@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zeven Delays op een Rij
+lang: nl
 categories:
 - muziek
 ---

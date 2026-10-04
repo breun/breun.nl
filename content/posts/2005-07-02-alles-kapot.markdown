@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Alles kapot
+lang: nl
 date: '2005-07-02 05:08:21 +0200'
 mt_id: 693
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zo lek als een Winamp
+lang: nl
 date: '2004-04-06 16:20:28 +0200'
 mt_id: 587
 categories:

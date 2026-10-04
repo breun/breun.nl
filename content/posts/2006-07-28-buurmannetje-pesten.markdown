@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Buurmannetje pesten
+lang: nl
 date: '2006-07-28 13:36:52 +0200'
 mt_id: 796
 categories:

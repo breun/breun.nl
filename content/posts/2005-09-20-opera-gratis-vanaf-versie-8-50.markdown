@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Opera gratis vanaf versie 8.50!
+lang: nl
 date: '2005-09-20 15:25:12 +0200'
 mt_id: 722
 categories:

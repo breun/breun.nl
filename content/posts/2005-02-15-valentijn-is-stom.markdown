@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Valentijn is stom
+lang: nl
 date: '2005-02-15 13:10:48 +0100'
 mt_id: 661
 categories:

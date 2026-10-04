@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Backlights zijn ook maar mensen
+lang: nl
 date: '2007-05-07 12:26:50 +0200'
 mt_id: 853
 categories:

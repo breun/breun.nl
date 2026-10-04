@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Canvas Holes
+lang: nl
 date: '2012-11-18 00:15:03 +0100'
 mt_id: 956
 categories:

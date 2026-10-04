@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stank voor dank
+lang: nl
 date: '2003-04-08 17:23:26 +0200'
 mt_id: 459
 categories:

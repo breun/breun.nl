@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Look Mum, I Hacked the Hacker at J-Fall 2021
+lang: en
 ---
 
 Due to COVID-19 there were hardly any in-person events in 2021,

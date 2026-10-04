@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Snelle verzending
+lang: nl
 date: '2006-03-02 23:00:02 +0100'
 mt_id: 766
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Losing Lisa
+lang: nl
 date: '2003-05-21 15:51:09 +0200'
 mt_id: 475
 categories:

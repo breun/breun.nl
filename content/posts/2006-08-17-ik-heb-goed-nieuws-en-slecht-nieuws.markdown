@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ik heb goed nieuws en slecht nieuws
+lang: nl
 date: '2006-08-17 20:54:42 +0200'
 mt_id: 801
 categories:

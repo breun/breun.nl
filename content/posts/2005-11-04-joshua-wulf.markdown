@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Joshua Wulf
+lang: nl
 date: '2005-11-04 18:37:46 +0100'
 mt_id: 731
 categories:

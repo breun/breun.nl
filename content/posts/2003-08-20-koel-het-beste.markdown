@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Koel het beste
+lang: nl
 date: '2003-08-20 12:33:17 +0200'
 mt_id: 508
 categories:

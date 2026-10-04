@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moonwatch - Deimos
+lang: nl
 ---
 
 Na het einde van Riverdistrict wilde ik eigenlijk meteen door, maar voor je het weet ben je 3 jaar verder (nieuwe band regelen, nummers schrijven, opnemen, mixen, masteren, filmen, etc.). Maar vandaag was het eindelijk zover en lanceerde mijn nieuwe band [Moonwatch](https://moonwatch.band) haar eerste single en video!

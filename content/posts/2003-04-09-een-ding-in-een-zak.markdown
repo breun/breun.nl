@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Een ding in een zak
+lang: nl
 date: '2003-04-09 01:45:18 +0200'
 mt_id: 461
 categories:

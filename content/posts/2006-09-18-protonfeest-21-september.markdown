@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Protonfeest 21 september
+lang: nl
 date: '2006-09-18 12:28:34 +0200'
 mt_id: 814
 categories:

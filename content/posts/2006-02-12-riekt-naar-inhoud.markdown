@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Riekt naar inhoud
+lang: nl
 date: '2006-02-12 21:11:31 +0100'
 mt_id: 760
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Uitzending gemist?
+lang: nl
 date: '2005-03-23 12:57:34 +0100'
 mt_id: 670
 categories:

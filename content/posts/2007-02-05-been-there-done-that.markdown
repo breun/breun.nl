@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Been there, done that
+lang: nl
 date: '2007-02-05 23:21:28 +0100'
 mt_id: 836
 categories:

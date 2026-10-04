@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3VOOR12 Widgets en Gadgets
+lang: nl
 date: '2008-04-11 11:57:06 +0200'
 mt_id: 893
 categories:

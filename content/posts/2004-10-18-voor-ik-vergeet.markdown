@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Voor ik vergeet
+lang: nl
 date: '2004-10-18 19:05:46 +0200'
 mt_id: 631
 categories:

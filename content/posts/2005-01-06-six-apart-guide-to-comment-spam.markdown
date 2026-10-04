@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Six Apart Guide to Comment Spam
+lang: nl
 date: '2005-01-06 15:16:52 +0100'
 mt_id: 650
 categories:

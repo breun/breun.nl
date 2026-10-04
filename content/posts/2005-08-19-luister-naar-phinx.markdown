@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Luister naar phinx!
+lang: nl
 date: '2005-08-19 14:55:47 +0200'
 mt_id: 710
 categories:

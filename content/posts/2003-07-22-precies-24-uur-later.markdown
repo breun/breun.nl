@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Precies 24 uur later
+lang: nl
 date: '2003-07-22 22:47:13 +0200'
 mt_id: 500
 categories:

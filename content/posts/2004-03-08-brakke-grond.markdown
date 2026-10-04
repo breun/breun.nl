@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Brakke Grond
+lang: nl
 date: '2004-03-08 11:35:29 +0100'
 mt_id: 573
 categories:

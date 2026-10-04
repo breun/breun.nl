@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fresh Start&trade;
+lang: nl
 date: '2008-03-21 21:54:54 +0100'
 mt_id: 889
 categories:

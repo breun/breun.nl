@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reteblits
+lang: nl
 date: '2004-09-05 22:02:11 +0200'
 mt_id: 621
 categories:

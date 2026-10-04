@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 50 emails in karton
+lang: nl
 date: '2006-08-10 13:20:21 +0200'
 mt_id: 800
 categories:

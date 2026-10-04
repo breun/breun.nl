@@ -1,6 +1,7 @@
 ---
 layout: post
 title: homestarrunner.net, it's dot com!
+lang: nl
 date: '2003-02-02 12:49:57 +0100'
 mt_id: 439
 categories:

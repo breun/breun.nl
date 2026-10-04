@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De vele gezichten van Oxide 9
+lang: nl
 date: '2005-08-19 14:50:21 +0200'
 mt_id: 709
 categories:

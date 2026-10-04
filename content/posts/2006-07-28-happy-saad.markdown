@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Happy SAAD?
+lang: nl
 date: '2006-07-28 19:06:22 +0200'
 mt_id: 797
 categories:

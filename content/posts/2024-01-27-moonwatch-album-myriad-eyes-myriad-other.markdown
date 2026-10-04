@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moonwatch album Myriad Eyes \ Myriad Other out now!
+lang: en
 ---
 
 ![Moonwatch MEMO album cover](/images/Myriad%20Eyes%20%20Myriad%20Other%20-%20cover%20small.png){: width="750" }

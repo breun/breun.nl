@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gemeenschap en de stad
+lang: nl
 date: '2003-02-05 00:42:59 +0100'
 mt_id: 441
 categories:

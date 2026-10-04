@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Outlook not so good
+lang: nl
 date: '2004-10-28 20:25:46 +0200'
 mt_id: 634
 categories:

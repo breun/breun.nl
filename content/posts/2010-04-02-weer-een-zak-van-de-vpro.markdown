@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weer een zak van de VPRO
+lang: nl
 date: '2010-04-02 19:56:23 +0200'
 mt_id: 932
 categories:

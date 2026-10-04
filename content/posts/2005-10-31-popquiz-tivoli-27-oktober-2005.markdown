@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PopQuiz@Tivoli 27 oktober 2005
+lang: nl
 date: '2005-10-31 10:20:24 +0100'
 mt_id: 730
 categories:

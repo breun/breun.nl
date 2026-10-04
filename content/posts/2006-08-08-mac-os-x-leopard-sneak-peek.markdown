@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mac OS X Leopard Sneak Peek
+lang: nl
 date: '2006-08-08 01:58:06 +0200'
 mt_id: 799
 categories:

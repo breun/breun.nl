@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Royaal gevuld
+lang: nl
 date: '2004-07-01 18:05:47 +0200'
 mt_id: 612
 categories:

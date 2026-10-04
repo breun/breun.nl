@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Breun ligt in het noorden van de gemeente
+lang: nl
 date: '2007-03-01 19:13:08 +0100'
 mt_id: 845
 categories:

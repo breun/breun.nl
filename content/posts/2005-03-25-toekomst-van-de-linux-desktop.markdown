@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Toekomst van de Linux desktop
+lang: nl
 date: '2005-03-25 01:39:22 +0100'
 mt_id: 673
 categories:

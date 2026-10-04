@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nieuw in Mac OS X 10.4.8
+lang: nl
 date: '2006-10-10 16:50:02 +0200'
 mt_id: 816
 categories:

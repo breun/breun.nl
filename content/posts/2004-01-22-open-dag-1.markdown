@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open dag (1)
+lang: nl
 date: '2004-01-22 03:34:17 +0100'
 mt_id: 557
 categories:

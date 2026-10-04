@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De Schijf van Vijf
+lang: nl
 date: '2003-09-02 05:49:18 +0200'
 mt_id: 512
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hip als een klip
+lang: nl
 date: '2003-05-02 16:43:37 +0200'
 mt_id: 469
 categories:

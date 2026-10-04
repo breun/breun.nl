@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 60 jaar Paulus
+lang: nl
 date: '2003-12-02 02:16:39 +0100'
 mt_id: 541
 categories:

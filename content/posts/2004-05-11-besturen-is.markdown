@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Besturen is...
+lang: nl
 date: '2004-05-11 08:38:02 +0200'
 mt_id: 598
 categories:

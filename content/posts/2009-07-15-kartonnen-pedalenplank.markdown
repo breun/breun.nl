@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kartonnen pedalenplank
+lang: nl
 date: '2009-07-15 17:04:30 +0200'
 mt_id: 921
 categories:

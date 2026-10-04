@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kypski vs Lejo
+lang: nl
 date: '2005-03-22 17:16:47 +0100'
 mt_id: 669
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strijkplanken
+lang: nl
 date: '2003-06-09 12:50:43 +0200'
 mt_id: 480
 categories:

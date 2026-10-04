@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kadootje
+lang: nl
 date: '2003-08-31 23:32:49 +0200'
 mt_id: 511
 categories:

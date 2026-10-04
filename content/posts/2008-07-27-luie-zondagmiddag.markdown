@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Luie Zondagmiddag
+lang: nl
 date: '2008-07-27 18:43:45 +0200'
 mt_id: 901
 categories:

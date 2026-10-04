@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ik, ik, ik
+lang: nl
 date: '2003-07-21 22:47:28 +0200'
 mt_id: 499
 categories:

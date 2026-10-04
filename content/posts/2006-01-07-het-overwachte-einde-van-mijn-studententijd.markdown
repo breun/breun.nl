@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Het overwachte einde van mijn studententijd
+lang: nl
 date: '2006-01-07 21:04:39 +0100'
 mt_id: 752
 categories:

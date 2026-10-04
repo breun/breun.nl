@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GeoURL
+lang: nl
 date: '2005-04-16 15:23:21 +0200'
 mt_id: 677
 categories:

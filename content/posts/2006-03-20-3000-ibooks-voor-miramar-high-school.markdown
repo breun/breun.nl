@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3000 iBooks voor Miramar High School
+lang: nl
 date: '2006-03-20 00:02:47 +0100'
 mt_id: 770
 categories:

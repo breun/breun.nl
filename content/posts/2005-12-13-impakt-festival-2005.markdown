@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Impakt Festival 2005
+lang: nl
 date: '2005-12-13 14:04:22 +0100'
 mt_id: 744
 categories:

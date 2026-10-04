@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eerste Club 3VOOR12/Utrecht
+lang: nl
 date: '2005-01-19 14:15:36 +0100'
 mt_id: 653
 categories:

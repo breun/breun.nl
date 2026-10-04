@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We hebben maar een paar minuten tijd
+lang: nl
 date: '2005-11-07 16:59:50 +0100'
 mt_id: 733
 categories:

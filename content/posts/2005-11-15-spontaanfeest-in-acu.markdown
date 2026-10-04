@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spontaanfeest in ACU
+lang: nl
 date: '2005-11-15 16:47:08 +0100'
 mt_id: 737
 categories:

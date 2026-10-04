@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Impakt 2004
+lang: nl
 date: '2004-10-30 13:00:15 +0200'
 mt_id: 636
 categories:

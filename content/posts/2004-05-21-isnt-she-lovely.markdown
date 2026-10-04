@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Isn't she lovely?
+lang: nl
 date: '2004-05-21 02:15:59 +0200'
 mt_id: 604
 categories:

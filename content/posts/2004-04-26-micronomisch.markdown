@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Micronomisch
+lang: nl
 date: '2004-04-26 21:34:41 +0200'
 mt_id: 592
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Speed trials
+lang: nl
 date: '2003-11-20 12:11:59 +0100'
 mt_id: 537
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gratis SSL/TLS
+lang: nl
 ---
 Je ziet als het goed is sinds vandaag `https://` voor de URL en je browser toont waarschijnlijk een slotje. Dat komt omdat ik een SSL/TLS-certificaat heb geïnstalleerd.
 

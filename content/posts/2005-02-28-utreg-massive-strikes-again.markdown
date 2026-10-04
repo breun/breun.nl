@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Utreg Massive strikes again!
+lang: nl
 date: '2005-02-28 11:07:05 +0100'
 mt_id: 663
 categories:

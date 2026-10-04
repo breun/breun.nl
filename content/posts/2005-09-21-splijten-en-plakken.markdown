@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Splijten en plakken
+lang: nl
 date: '2005-09-21 15:25:36 +0200'
 mt_id: 723
 categories:

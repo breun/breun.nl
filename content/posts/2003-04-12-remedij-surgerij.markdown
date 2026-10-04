@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Remedij/surgerij
+lang: nl
 date: '2003-04-12 12:35:52 +0200'
 mt_id: 462
 categories:

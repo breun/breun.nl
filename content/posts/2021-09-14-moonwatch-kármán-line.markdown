@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moonwatch - Kármán Line
+lang: en
 ---
 
 Today my band [Moonwatch](https://moonwatch.band) released its second EP, called **Kármán Line**.

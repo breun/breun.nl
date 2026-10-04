@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Australische import uit Utrecht: Headcollision'
+lang: nl
 date: '2005-03-25 00:21:42 +0100'
 mt_id: 672
 categories:

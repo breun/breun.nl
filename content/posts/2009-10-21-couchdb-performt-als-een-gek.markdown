@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '"CouchDB performt als een gek!"'
+lang: nl
 date: '2009-10-21 11:12:53 +0200'
 mt_id: 922
 categories:

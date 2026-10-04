@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zomer van Code
+lang: nl
 date: '2005-06-01 12:37:44 +0200'
 mt_id: 686
 categories:

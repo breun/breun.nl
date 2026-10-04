@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekend of Code
+lang: nl
 date: '2008-06-03 11:43:10 +0200'
 mt_id: 897
 categories:

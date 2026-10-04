@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Grapher
+lang: nl
 date: '2007-03-11 19:42:02 +0100'
 mt_id: 847
 categories:

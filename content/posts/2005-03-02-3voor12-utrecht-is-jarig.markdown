@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3VOOR12/Utrecht is jarig
+lang: nl
 date: '2005-03-02 00:52:54 +0100'
 mt_id: 665
 categories:

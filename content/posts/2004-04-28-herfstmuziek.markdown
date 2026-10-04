@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Herfstmuziek
+lang: nl
 date: '2004-04-28 18:12:40 +0200'
 mt_id: 595
 categories:

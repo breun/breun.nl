@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sourceforge.net op Fedora Core 2
+lang: nl
 date: '2004-10-28 20:39:20 +0200'
 mt_id: 635
 categories:

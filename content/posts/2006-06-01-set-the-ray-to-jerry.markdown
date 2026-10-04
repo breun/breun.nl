@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Set the Ray to Jerry
+lang: nl
 date: '2006-06-01 16:52:23 +0200'
 mt_id: 779
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Club 3VOOR12/Utrecht 18 mei 2006
+lang: nl
 date: '2006-05-18 12:53:29 +0200'
 mt_id: 775
 categories:

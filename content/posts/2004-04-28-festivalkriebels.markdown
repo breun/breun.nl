@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Festivalkriebels
+lang: nl
 date: '2004-04-28 00:05:29 +0200'
 mt_id: 594
 categories:

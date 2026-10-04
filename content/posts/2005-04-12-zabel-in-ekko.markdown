@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zabel in EKKO
+lang: nl
 date: '2005-04-12 12:01:26 +0200'
 mt_id: 676
 categories:

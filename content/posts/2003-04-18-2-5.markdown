@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '2,5'
+lang: nl
 date: '2003-04-18 12:56:44 +0200'
 mt_id: 464
 categories:

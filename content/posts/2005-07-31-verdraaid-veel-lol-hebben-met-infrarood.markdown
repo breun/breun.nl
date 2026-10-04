@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Verdraaid veel lol hebben met infrarood
+lang: nl
 date: '2005-07-31 15:46:38 +0200'
 mt_id: 704
 categories:

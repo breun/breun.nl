@@ -1,6 +1,7 @@
 ---
 layout: post
 title: There is no pain, you are receding
+lang: nl
 date: '2003-07-16 02:49:46 +0200'
 mt_id: 497
 categories:

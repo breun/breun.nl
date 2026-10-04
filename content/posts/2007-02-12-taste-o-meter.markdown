@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Taste-o-meter
+lang: nl
 date: '2007-02-12 17:36:03 +0100'
 mt_id: 839
 categories:

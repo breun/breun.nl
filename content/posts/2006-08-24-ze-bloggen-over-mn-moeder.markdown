@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ze bloggen over m'n moeder!
+lang: nl
 date: '2006-08-24 19:44:47 +0200'
 mt_id: 805
 categories:

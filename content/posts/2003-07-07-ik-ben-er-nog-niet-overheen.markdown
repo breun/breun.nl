@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ik ben er nog niet overheen
+lang: nl
 date: '2003-07-07 14:47:22 +0200'
 mt_id: 492
 categories:

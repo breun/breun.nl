@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Achter glas
+lang: nl
 date: '2004-04-27 01:01:57 +0200'
 mt_id: 593
 categories:

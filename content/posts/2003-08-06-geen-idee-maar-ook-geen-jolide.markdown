@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Geen idee, maar ook geen Jolid&eacute;
+lang: nl
 date: '2003-08-06 19:12:58 +0200'
 mt_id: 506
 categories:

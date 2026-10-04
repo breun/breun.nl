@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tettnang
+lang: nl
 date: '2004-05-18 02:01:57 +0200'
 mt_id: 603
 categories:

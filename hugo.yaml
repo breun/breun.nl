@@ -1,7 +1,7 @@
 baseURL: "https://breun.nl/"
 title: "breun"
-locale: "nl-NL"
-defaultContentLanguage: "nl"
+locale: "en-US"
+defaultContentLanguage: "en"
 uglyURLs: true
 
 security:

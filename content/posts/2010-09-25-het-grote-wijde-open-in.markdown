@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Het Grote Wijde Open In
+lang: nl
 date: '2010-09-25 19:30:37 +0200'
 mt_id: 941
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Un cheval anonyme
+lang: nl
 date: '2003-06-30 00:42:32 +0200'
 mt_id: 489
 categories:

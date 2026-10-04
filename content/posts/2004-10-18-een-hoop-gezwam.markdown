@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Een hoop gezwam
+lang: nl
 date: '2004-10-18 19:09:37 +0200'
 mt_id: 632
 categories:

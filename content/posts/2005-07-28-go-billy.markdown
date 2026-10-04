@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Go Billy!
+lang: nl
 date: '2005-07-28 14:01:10 +0200'
 mt_id: 701
 categories:

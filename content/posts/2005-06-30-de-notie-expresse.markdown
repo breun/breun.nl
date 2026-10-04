@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De Notie Expresse
+lang: nl
 date: '2005-06-30 23:21:16 +0200'
 mt_id: 692
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Broke in the USA
+lang: nl
 date: '2006-11-09 16:43:45 +0100'
 mt_id: 826
 categories:

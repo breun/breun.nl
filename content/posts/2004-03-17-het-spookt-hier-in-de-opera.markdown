@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Het spookt hier in de Opera
+lang: nl
 date: '2004-03-17 02:04:15 +0100'
 mt_id: 578
 categories:

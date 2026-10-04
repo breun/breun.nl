@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Modern Web Design
+lang: nl
 date: '2006-06-28 03:10:34 +0200'
 mt_id: 789
 categories:

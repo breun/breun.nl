@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deze extreme band
+lang: nl
 date: '2005-11-10 10:42:35 +0100'
 mt_id: 735
 categories:

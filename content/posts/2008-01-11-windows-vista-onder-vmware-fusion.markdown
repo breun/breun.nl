@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows Vista onder VMware Fusion
+lang: nl
 date: '2008-01-11 17:26:23 +0100'
 mt_id: 883
 categories:

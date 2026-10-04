@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nieuwjaarsduik 2008
+lang: nl
 date: '2008-01-04 01:46:38 +0100'
 mt_id: 882
 categories:

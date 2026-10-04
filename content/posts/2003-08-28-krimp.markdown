@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Krimp
+lang: nl
 date: '2003-08-28 19:55:06 +0200'
 mt_id: 509
 categories:

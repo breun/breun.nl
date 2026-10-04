@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Partijtje
+lang: nl
 date: '2004-05-31 16:32:55 +0200'
 mt_id: 607
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: In de winkel
+lang: nl
 date: '2003-04-18 13:28:03 +0200'
 mt_id: 465
 categories:

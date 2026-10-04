@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Crack
+lang: nl
 date: '2004-12-17 13:03:22 +0100'
 mt_id: 646
 categories:

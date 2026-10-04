@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strijken is voor vrouwen
+lang: nl
 date: '2003-06-02 15:44:26 +0200'
 mt_id: 479
 categories:

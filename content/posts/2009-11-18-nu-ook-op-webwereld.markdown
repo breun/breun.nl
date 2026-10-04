@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nu ook op Webwereld
+lang: nl
 date: '2009-11-18 17:23:59 +0100'
 mt_id: 925
 categories:

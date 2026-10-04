@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zo, dit is kerstmis
+lang: nl
 date: '2003-12-25 00:21:41 +0100'
 mt_id: 546
 categories:

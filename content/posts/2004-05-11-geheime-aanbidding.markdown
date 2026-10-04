@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Geheime aanbidding
+lang: nl
 date: '2004-05-11 17:30:25 +0200'
 mt_id: 599
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zo waar
+lang: nl
 date: '2005-05-14 12:48:26 +0200'
 mt_id: 684
 categories:

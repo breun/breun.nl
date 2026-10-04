@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Anouk gaat naar Lenny Kravitz
+lang: nl
 date: '2004-05-15 14:05:49 +0200'
 mt_id: 601
 categories:

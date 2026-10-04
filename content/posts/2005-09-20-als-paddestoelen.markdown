@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Als paddestoelen
+lang: nl
 date: '2005-09-20 14:54:15 +0200'
 mt_id: 721
 categories:

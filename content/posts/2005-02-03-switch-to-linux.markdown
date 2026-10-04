@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Switch to Linux
+lang: nl
 date: '2005-02-03 03:30:48 +0100'
 mt_id: 657
 categories:

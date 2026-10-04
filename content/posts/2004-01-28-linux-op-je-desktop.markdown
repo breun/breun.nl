@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linux op je desktop
+lang: nl
 date: '2004-01-28 19:30:26 +0100'
 mt_id: 560
 categories:

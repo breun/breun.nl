@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Only World
+lang: nl
 ---
 
 Op 20 december nam ik in mijn eentje alle tracks op. Er waren geen nummers, ik zat gewoon met mezelf te jammen als het ware. Ik zette de boel na wat mixen ook meteen op [SoundCloud](https://soundcloud.com/breun/sets/my-only-world). Op 28 december kreeg ik de kriebels en deed ik een poging tot masteren en zette ik de gemasterde versies online. Gitaar, bas, Juno, Moog en de computer op drums. Ik ben er eigenlijk best wel trots op!

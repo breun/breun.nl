@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De dag dat je wegging
+lang: nl
 date: '2005-07-08 14:03:12 +0200'
 mt_id: 695
 categories:

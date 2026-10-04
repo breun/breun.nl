@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SysAdmin of the Year 2007
+lang: nl
 date: '2007-08-27 20:53:07 +0200'
 mt_id: 868
 categories:

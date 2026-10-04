@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This is your life and it's ending one minute at a time
+lang: nl
 date: '2003-07-03 16:57:26 +0200'
 mt_id: 491
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dries, Dani&euml;l, Yeroen en Remy
+lang: nl
 date: '2003-03-30 04:44:47 +0200'
 mt_id: 455
 categories:

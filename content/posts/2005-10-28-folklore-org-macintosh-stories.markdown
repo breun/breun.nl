@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Folklore.org: Macintosh Stories'
+lang: nl
 date: '2005-10-28 22:12:48 +0200'
 mt_id: 728
 categories:

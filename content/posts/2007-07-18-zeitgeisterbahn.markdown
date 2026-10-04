@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zeitgeisterbahn
+lang: nl
 date: '2007-07-18 11:59:51 +0200'
 mt_id: 860
 categories:

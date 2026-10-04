@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Echte vakantie
+lang: nl
 date: '2004-07-01 13:45:55 +0200'
 mt_id: 611
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Opera Mini vs. Opera Mobile
+lang: nl
 date: '2007-09-06 11:30:55 +0200'
 mt_id: 869
 categories:

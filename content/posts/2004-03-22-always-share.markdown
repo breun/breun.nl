@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Always share
+lang: nl
 date: '2004-03-22 01:24:50 +0100'
 mt_id: 580
 categories:

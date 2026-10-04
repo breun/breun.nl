@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Geinig
+lang: nl
 date: '2004-01-23 07:00:15 +0100'
 mt_id: 559
 categories:

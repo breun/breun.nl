@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Heeft U dat ook wel eens?
+lang: nl
 date: '2003-03-05 15:08:04 +0100'
 mt_id: 448
 categories:

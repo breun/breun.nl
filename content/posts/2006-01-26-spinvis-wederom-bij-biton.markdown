@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spinvis wederom bij Biton
+lang: nl
 date: '2006-01-26 19:33:41 +0100'
 mt_id: 756
 categories:

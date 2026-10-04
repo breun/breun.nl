@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Besturi te salutant
+lang: nl
 date: '2003-08-06 01:41:12 +0200'
 mt_id: 504
 categories:

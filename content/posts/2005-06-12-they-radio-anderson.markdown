@@ -1,6 +1,7 @@
 ---
 layout: post
 title: They Radio Anderson
+lang: nl
 date: '2005-06-12 22:50:38 +0200'
 mt_id: 688
 categories:

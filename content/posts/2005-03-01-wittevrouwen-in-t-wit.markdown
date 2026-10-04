@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wittevrouwen in 't wit
+lang: nl
 date: '2005-03-01 23:05:16 +0100'
 mt_id: 664
 categories:

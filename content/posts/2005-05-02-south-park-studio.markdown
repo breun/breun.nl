@@ -1,6 +1,7 @@
 ---
 layout: post
 title: South Park Studio
+lang: nl
 date: '2005-05-02 13:18:56 +0200'
 mt_id: 682
 categories:

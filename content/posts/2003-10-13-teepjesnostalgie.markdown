@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teepjesnostalgie
+lang: nl
 date: '2003-10-13 01:03:09 +0200'
 mt_id: 522
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dokter, is het ernstig?
+lang: nl
 date: '2006-01-07 20:57:28 +0100'
 mt_id: 751
 categories:

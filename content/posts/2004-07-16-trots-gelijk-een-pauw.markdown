@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trots gelijk een pauw
+lang: nl
 date: '2004-07-16 22:28:44 +0200'
 mt_id: 616
 categories:

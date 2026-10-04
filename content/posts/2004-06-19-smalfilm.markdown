@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sm&aring;lfilm
+lang: nl
 date: '2004-06-19 04:52:23 +0200'
 mt_id: 609
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Club 3VOOR12/Utrecht: tweede seizoen'
+lang: nl
 date: '2005-09-11 19:31:50 +0200'
 mt_id: 719
 categories:

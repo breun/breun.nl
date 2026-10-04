@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FOSDEM 2007
+lang: nl
 date: '2007-01-11 11:32:35 +0100'
 mt_id: 833
 categories:

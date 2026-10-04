@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sparklehorse aan, bed in
+lang: nl
 date: '2004-05-24 23:32:05 +0200'
 mt_id: 605
 categories:

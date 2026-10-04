@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Verhipt
+lang: nl
 date: '2003-06-29 16:09:54 +0200'
 mt_id: 487
 categories:

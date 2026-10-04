@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bekend van tv
+lang: nl
 date: '2003-04-08 22:06:53 +0200'
 mt_id: 460
 categories:

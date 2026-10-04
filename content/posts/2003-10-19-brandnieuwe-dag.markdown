@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Brandnieuwe dag
+lang: nl
 date: '2003-10-19 08:19:48 +0200'
 mt_id: 528
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: En plain publique
+lang: nl
 date: '2005-02-08 15:05:41 +0100'
 mt_id: 659
 categories:

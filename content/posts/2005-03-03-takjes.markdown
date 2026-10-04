@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Takjes
+lang: nl
 date: '2005-03-03 01:15:43 +0100'
 mt_id: 666
 categories:

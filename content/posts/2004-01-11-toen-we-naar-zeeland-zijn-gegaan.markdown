@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Toen we naar Zeeland zijn gegaan
+lang: nl
 date: '2004-01-11 23:41:12 +0100'
 mt_id: 553
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Club 3VOOR12/Utrecht 17 november 2005
+lang: nl
 date: '2005-11-15 16:28:16 +0100'
 mt_id: 736
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Academic Alliance
+lang: nl
 date: '2005-11-30 16:49:29 +0100'
 mt_id: 742
 categories:

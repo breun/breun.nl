@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kwijtgeraakte snelweg
+lang: nl
 date: '2003-10-20 00:51:10 +0200'
 mt_id: 529
 categories:

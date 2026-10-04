@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spinvis op Biton? Spinvis op Biton!
+lang: nl
 date: '2003-12-03 00:32:06 +0100'
 mt_id: 543
 categories:

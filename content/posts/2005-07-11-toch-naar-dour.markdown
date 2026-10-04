@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Toch naar Dour
+lang: nl
 date: '2005-07-11 15:48:01 +0200'
 mt_id: 697
 categories:

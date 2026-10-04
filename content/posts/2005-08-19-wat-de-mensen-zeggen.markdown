@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wat de mensen zeggen
+lang: nl
 date: '2005-08-19 15:04:22 +0200'
 mt_id: 711
 categories:

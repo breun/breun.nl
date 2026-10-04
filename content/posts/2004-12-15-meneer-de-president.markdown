@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Meneer de President
+lang: nl
 date: '2004-12-15 21:10:16 +0100'
 mt_id: 645
 categories:

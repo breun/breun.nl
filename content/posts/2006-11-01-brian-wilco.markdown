@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Brian Wilco
+lang: nl
 date: '2006-11-01 12:32:44 +0100'
 mt_id: 824
 categories:

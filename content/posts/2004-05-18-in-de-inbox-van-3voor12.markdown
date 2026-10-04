@@ -1,6 +1,7 @@
 ---
 layout: post
 title: In de inbox van 3VOOR12
+lang: nl
 date: '2004-05-18 01:02:48 +0200'
 mt_id: 602
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Atomic Rocket Turtle changelog
+lang: nl
 date: '2006-09-11 12:52:13 +0200'
 mt_id: 811
 categories:

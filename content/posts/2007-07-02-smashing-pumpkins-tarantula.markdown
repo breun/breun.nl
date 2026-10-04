@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Smashing Pumpkins - Tarantula
+lang: nl
 date: '2007-07-02 11:57:42 +0200'
 mt_id: 858
 categories:

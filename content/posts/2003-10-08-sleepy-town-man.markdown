@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sleepy Town Manufacture
+lang: nl
 date: '2003-10-08 15:16:53 +0200'
 mt_id: 520
 categories:

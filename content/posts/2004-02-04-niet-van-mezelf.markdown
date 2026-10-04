@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Niet van mezelf
+lang: nl
 date: '2004-02-04 20:49:58 +0100'
 mt_id: 563
 categories:

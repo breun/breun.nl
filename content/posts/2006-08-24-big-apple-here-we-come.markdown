@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Big Apple, here we come!
+lang: nl
 date: '2006-08-24 22:05:31 +0200'
 mt_id: 806
 categories:

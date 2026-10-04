@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cult of Mac
+lang: nl
 date: '2007-02-27 13:48:07 +0100'
 mt_id: 843
 categories:

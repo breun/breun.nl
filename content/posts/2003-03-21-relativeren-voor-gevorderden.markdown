@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Relativeren voor gevorderden
+lang: nl
 date: '2003-03-21 02:11:55 +0100'
 mt_id: 451
 categories:

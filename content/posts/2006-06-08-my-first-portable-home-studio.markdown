@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First Portable Home Studio
+lang: nl
 date: '2006-06-08 18:30:05 +0200'
 mt_id: 781
 categories:

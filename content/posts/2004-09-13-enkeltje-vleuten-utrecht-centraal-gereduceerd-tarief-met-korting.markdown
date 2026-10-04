@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Enkeltje Vleuten-Utrecht Centraal, gereduceerd tarief, m&eacute;t korting
+lang: nl
 date: '2004-09-13 14:34:40 +0200'
 mt_id: 622
 categories:

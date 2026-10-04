@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Slaapliedje voor vloeibaar varken
+lang: nl
 date: '2003-05-20 01:40:48 +0200'
 mt_id: 473
 categories:

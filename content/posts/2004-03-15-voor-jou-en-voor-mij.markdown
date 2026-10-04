@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Voor jou en voor mij
+lang: nl
 date: '2004-03-15 02:37:03 +0100'
 mt_id: 575
 categories:

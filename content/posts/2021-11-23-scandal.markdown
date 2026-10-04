@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scandal
+lang: nl
 ---
 
 Mijn eerste band had ik met Niek en Jan.

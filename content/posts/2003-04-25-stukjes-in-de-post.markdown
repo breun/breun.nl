@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stukjes in de post
+lang: nl
 date: '2003-04-25 14:20:33 +0200'
 mt_id: 467
 categories:

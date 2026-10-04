@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Installeren kan je leren
+lang: nl
 date: '2005-11-26 01:39:45 +0100'
 mt_id: 740
 categories:

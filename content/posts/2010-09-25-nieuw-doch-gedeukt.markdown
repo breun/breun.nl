@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nieuw doch gedeukt
+lang: nl
 date: '2010-09-25 17:48:06 +0200'
 mt_id: 940
 categories:

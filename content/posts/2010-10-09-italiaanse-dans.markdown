@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Italiaanse Dans
+lang: nl
 date: '2010-10-09 01:14:20 +0200'
 mt_id: 942
 categories:

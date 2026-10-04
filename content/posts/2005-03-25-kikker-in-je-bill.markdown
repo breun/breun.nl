@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kikker in je Bill
+lang: nl
 date: '2005-03-25 01:51:41 +0100'
 mt_id: 674
 categories:

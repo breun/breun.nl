@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Voordelen van illegale software
+lang: nl
 date: '2007-02-23 16:53:57 +0100'
 mt_id: 841
 categories:

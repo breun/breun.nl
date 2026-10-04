@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Minimale moeder
+lang: nl
 date: '2006-02-27 02:15:49 +0100'
 mt_id: 765
 categories:

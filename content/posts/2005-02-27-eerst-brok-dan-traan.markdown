@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eerst brok, dan traan
+lang: nl
 date: '2005-02-27 12:11:57 +0100'
 mt_id: 662
 categories:

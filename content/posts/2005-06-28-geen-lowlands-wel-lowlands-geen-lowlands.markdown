@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Geen Lowlands, wel Lowlands, geen Lowlands
+lang: nl
 date: '2005-06-28 16:08:32 +0200'
 mt_id: 691
 categories:

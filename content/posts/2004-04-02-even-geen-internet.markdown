@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Even geen internet
+lang: nl
 date: '2004-04-02 16:59:58 +0200'
 mt_id: 585
 categories:

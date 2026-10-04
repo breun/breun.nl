@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Doe maak zeg denk
+lang: nl
 date: '2003-10-14 17:27:23 +0200'
 mt_id: 523
 categories:

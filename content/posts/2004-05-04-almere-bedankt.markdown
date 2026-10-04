@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Almere, bedankt!
+lang: nl
 date: '2004-05-04 12:18:24 +0200'
 mt_id: 596
 categories:

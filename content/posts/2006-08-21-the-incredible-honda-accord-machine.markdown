@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Incredible Honda Accord Machine
+lang: nl
 date: '2006-08-21 19:18:24 +0200'
 mt_id: 803
 categories:

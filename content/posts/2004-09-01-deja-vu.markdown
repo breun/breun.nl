@@ -1,6 +1,7 @@
 ---
 layout: post
 title: D&eacute;j&agrave; vu
+lang: nl
 date: '2004-09-01 13:19:58 +0200'
 mt_id: 618
 categories:

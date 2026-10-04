@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Recht op zo'n lente
+lang: nl
 date: '2004-03-30 19:27:36 +0200'
 mt_id: 584
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Debuutalbum SallySkunk is rijk en afwisselend
+lang: nl
 date: '2005-09-21 21:24:44 +0200'
 mt_id: 724
 categories:

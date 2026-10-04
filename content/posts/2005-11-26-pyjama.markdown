@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pyjama
+lang: nl
 date: '2005-11-26 04:02:35 +0100'
 mt_id: 741
 categories:

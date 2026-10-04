@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Igor, who the f*** is Igor?
+lang: nl
 date: '2003-10-10 03:28:28 +0200'
 mt_id: 521
 categories:

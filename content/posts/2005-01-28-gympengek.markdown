@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GympenGek
+lang: nl
 date: '2005-01-28 16:15:39 +0100'
 mt_id: 656
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Verhuisbericht
+lang: nl
 date: '2003-07-01 17:45:08 +0200'
 mt_id: 490
 categories:

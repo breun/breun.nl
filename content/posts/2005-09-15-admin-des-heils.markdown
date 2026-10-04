@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Admin des Heils
+lang: nl
 date: '2005-09-15 15:23:24 +0200'
 mt_id: 720
 categories:

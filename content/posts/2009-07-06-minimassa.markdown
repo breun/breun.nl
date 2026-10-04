@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Minimassa
+lang: nl
 date: '2009-07-06 13:07:32 +0200'
 mt_id: 919
 categories:

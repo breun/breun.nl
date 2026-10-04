@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '988'
+lang: nl
 date: '2003-06-29 23:53:01 +0200'
 mt_id: 488
 categories:

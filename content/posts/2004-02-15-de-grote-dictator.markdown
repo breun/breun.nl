@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De grote dictator
+lang: nl
 date: '2004-02-15 03:13:36 +0100'
 mt_id: 564
 categories:

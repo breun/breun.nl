@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Echte Foto's van Echte Instrumenten
+lang: nl
 date: '2009-06-27 21:55:37 +0200'
 mt_id: 918
 categories:

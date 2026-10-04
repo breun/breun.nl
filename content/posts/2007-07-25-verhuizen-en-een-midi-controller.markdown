@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Verhuizen en een MIDI controller
+lang: nl
 date: '2007-07-25 23:27:28 +0200'
 mt_id: 863
 categories:

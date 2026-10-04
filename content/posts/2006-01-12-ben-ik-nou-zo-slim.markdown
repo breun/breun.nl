@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ben ik nou zo slim?
+lang: nl
 date: '2006-01-12 23:10:10 +0100'
 mt_id: 754
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Perpetuum Mobile werkelijkheid?
+lang: nl
 date: '2006-08-22 12:54:21 +0200'
 mt_id: 804
 categories:

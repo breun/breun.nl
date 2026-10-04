@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Materialist die ik er ben
+lang: nl
 date: '2003-11-26 23:59:58 +0100'
 mt_id: 540
 categories:

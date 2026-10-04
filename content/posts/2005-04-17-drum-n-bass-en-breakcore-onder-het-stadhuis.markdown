@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Drum'n'bass en breakcore onder het stadhuis
+lang: nl
 date: '2005-04-17 17:15:48 +0200'
 mt_id: 678
 categories:

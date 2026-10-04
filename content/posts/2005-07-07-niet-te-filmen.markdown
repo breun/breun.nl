@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Niet te filmen
+lang: nl
 date: '2005-07-07 23:55:09 +0200'
 mt_id: 694
 categories:

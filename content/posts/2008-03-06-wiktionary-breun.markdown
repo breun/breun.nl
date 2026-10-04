@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Wiktionary: breun'
+lang: nl
 date: '2008-03-06 16:59:27 +0100'
 mt_id: 888
 categories:

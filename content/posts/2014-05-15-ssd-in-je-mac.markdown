@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SSD in je Mac
+lang: nl
 ---
 Ik heb het zelf al meerdere keren gedaan en al diverse vrienden en familieleden geadviseerd: als je nog een harde schijf in je Mac hebt zitten, vervang deze dan zo snel mogelijk door een SSD (Solid State Drive). Je drie jaar oude machine voelt naderhand weer als nieuw!
 

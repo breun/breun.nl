@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '"It just worked! Nice software! Wooooooooooo!"'
+lang: nl
 date: '2004-10-14 12:55:40 +0200'
 mt_id: 629
 categories:

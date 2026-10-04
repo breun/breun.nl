@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thistle Sifter - Forever the Optimist
+lang: en
 ---
 
 I joined [Thistle Sifter](https://thistlesifter.com) at the end of 2024, because Pete was looking for a new guitarist.

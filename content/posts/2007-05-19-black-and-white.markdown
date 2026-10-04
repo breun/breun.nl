@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Black and White
+lang: nl
 date: '2007-05-19 18:01:15 +0200'
 mt_id: 854
 categories:

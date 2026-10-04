@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Een heel slim jongetje
+lang: nl
 date: '2005-08-11 00:59:10 +0200'
 mt_id: 708
 categories:

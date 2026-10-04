@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Everything's new
+lang: nl
 date: '2003-04-27 15:33:36 +0200'
 mt_id: 468
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Computer gezond, gebruik een Apple
+lang: nl
 date: '2005-11-10 10:39:36 +0100'
 mt_id: 734
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Long Awkward Pose
+lang: nl
 date: '2006-08-18 12:25:20 +0200'
 mt_id: 802
 categories:

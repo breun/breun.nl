@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pasfotopenarie
+lang: nl
 date: '2006-09-01 15:29:48 +0200'
 mt_id: 807
 categories:

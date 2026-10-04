@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Amsterdam Bicycles
+lang: nl
 date: '2007-11-29 10:26:31 +0100'
 mt_id: 879
 categories:

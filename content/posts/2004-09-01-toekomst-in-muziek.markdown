@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Toekomst in muziek
+lang: nl
 date: '2004-09-01 14:47:45 +0200'
 mt_id: 619
 categories:

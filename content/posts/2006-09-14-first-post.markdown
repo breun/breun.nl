@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post!
+lang: nl
 date: '2006-09-14 23:46:41 +0200'
 mt_id: 812
 categories:

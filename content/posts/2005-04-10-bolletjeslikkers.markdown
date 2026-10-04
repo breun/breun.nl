@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bolletjeslikkers
+lang: nl
 date: '2005-04-10 20:11:06 +0200'
 mt_id: 675
 categories:

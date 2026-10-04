@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Plaid, daar zakt je broek van af
+lang: nl
 date: '2004-02-23 15:33:02 +0100'
 mt_id: 567
 categories:

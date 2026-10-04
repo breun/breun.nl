@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Metalen pedalenplank
+lang: nl
 date: '2009-11-23 20:49:06 +0100'
 mt_id: 927
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hoezo, jouw account?
+lang: nl
 date: '2006-09-10 17:38:13 +0200'
 mt_id: 810
 categories:

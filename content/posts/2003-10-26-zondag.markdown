@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zondag
+lang: nl
 date: '2003-10-26 22:19:33 +0100'
 mt_id: 531
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I read your e-mail
+lang: nl
 date: '2006-06-19 23:49:43 +0200'
 mt_id: 784
 categories:

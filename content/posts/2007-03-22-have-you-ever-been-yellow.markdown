@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Have you ever been yellow?
+lang: nl
 date: '2007-03-22 18:13:32 +0100'
 mt_id: 848
 categories:

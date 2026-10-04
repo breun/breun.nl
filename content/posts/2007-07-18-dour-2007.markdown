@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dour 2007
+lang: nl
 date: '2007-07-18 14:03:54 +0200'
 mt_id: 861
 categories:

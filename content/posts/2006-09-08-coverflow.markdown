@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CoverFlow
+lang: nl
 date: '2006-09-08 17:31:42 +0200'
 mt_id: 809
 categories:

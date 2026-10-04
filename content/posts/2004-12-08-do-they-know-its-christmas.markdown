@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do they know it's Christmas?
+lang: nl
 date: '2004-12-08 14:09:50 +0100'
 mt_id: 644
 categories:

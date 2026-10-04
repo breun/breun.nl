@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thuiskomende Koningin
+lang: nl
 date: '2007-04-06 23:24:54 +0200'
 mt_id: 851
 categories:

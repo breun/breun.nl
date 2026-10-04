@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Last.fm Events
+lang: nl
 date: '2006-11-02 15:37:37 +0100'
 mt_id: 825
 categories:

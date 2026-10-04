@@ -1,6 +1,7 @@
 ---
 layout: post
 title: InterZone presenteert een avondje experimentele ambient
+lang: nl
 date: '2005-10-03 14:51:29 +0200'
 mt_id: 725
 categories:

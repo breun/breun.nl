@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wat wil je ook met zo'n naam?
+lang: nl
 date: '2006-06-20 13:35:42 +0200'
 mt_id: 785
 categories:

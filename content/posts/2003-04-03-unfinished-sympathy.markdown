@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Unfinished sympathy
+lang: nl
 date: '2003-04-03 01:48:38 +0200'
 mt_id: 458
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 6955 op Biton maandag!
+lang: nl
 date: '2005-12-17 15:10:20 +0100'
 mt_id: 745
 categories:

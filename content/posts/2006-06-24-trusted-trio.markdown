@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trusted Trio
+lang: nl
 date: '2006-06-24 16:22:06 +0200'
 mt_id: 787
 categories:

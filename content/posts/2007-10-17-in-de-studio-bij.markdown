@@ -1,6 +1,7 @@
 ---
 layout: post
 title: In de Studio bij...
+lang: nl
 date: '2007-10-17 11:52:59 +0200'
 mt_id: 877
 categories:

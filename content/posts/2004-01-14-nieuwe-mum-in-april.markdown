@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nieuwe M&uacute;m in april
+lang: nl
 date: '2004-01-14 01:57:39 +0100'
 mt_id: 555
 categories:

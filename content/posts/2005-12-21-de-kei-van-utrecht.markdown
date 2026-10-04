@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De Kei van Utrecht
+lang: nl
 date: '2005-12-21 16:27:23 +0100'
 mt_id: 746
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Riverdistrict - Kansas Anymore
+lang: nl
 ---
 
 Vandaag zag het album [Kansas Anymore](http://shop.riverdistrictmusic.com/album/kansas-anymore) van mijn band [Riverdistrict](http://www.riverdistrictmusic.com/) het licht! Hij is integraal te beluisteren op [Spotify](https://open.spotify.com/album/7GZXPgs3yHgkrmDXuFOeNF), [Bandcamp](http://shop.riverdistrictmusic.com/album/kansas-anymore), [YouTube](http://youtube.com/playlist?list=PLfrU-HtWjZQhxIkyImpdJCBpRjBki2Fsr) en diverse andere muziekdiensten, maar het allermooist is ie natuurlijk op vinyl.

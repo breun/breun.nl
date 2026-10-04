@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hikarunix
+lang: nl
 date: '2004-09-25 02:28:21 +0200'
 mt_id: 625
 categories:

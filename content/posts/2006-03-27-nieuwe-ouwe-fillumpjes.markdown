@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nieuwe ouwe fillumpjes
+lang: nl
 date: '2006-03-27 20:55:44 +0200'
 mt_id: 773
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nederland FM
+lang: nl
 date: '2005-01-24 17:30:07 +0100'
 mt_id: 655
 categories:

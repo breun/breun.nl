@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eels met knipperende lichtjes op tournee
+lang: nl
 date: '2005-03-24 13:52:53 +0100'
 mt_id: 671
 categories:

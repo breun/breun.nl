@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Backups voor Dummies
+lang: nl
 date: '2006-07-18 04:33:31 +0200'
 mt_id: 791
 categories:

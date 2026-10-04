@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Close encounters
+lang: nl
 date: '2003-08-06 18:58:47 +0200'
 mt_id: 505
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pimp my iBook
+lang: nl
 date: '2006-02-22 17:36:27 +0100'
 mt_id: 762
 categories:

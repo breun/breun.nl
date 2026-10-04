@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gratis tijdverspilling
+lang: nl
 date: '2006-06-18 10:38:08 +0200'
 mt_id: 783
 categories:

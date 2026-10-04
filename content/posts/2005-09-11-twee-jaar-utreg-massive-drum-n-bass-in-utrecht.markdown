@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Twee jaar Utreg Massive: drum ''n bass in Utrecht'
+lang: nl
 date: '2005-09-11 11:21:47 +0200'
 mt_id: 718
 categories:

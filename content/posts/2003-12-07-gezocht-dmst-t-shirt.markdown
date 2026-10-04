@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Gezocht: DMST T-shirt'
+lang: nl
 date: '2003-12-07 20:31:05 +0100'
 mt_id: 544
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows Media Player is dood! Lang leve Flip4Mac!
+lang: nl
 date: '2006-01-12 22:59:13 +0100'
 mt_id: 753
 categories:

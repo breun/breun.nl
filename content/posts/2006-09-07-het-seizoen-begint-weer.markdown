@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Het seizoen begint weer
+lang: nl
 date: '2006-09-07 17:14:44 +0200'
 mt_id: 808
 categories:

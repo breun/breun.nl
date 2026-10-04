@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lorem ipsum
+lang: nl
 date: '2004-01-03 20:49:32 +0100'
 mt_id: 551
 categories:

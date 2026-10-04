@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Free as in Freedom
+lang: nl
 date: '2005-01-10 16:27:34 +0100'
 mt_id: 652
 categories:

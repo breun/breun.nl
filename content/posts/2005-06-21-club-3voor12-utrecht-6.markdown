@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Club 3VOOR12/Utrecht 6
+lang: nl
 date: '2005-06-21 20:48:51 +0200'
 mt_id: 689
 categories:

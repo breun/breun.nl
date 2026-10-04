@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BSP Kruis Basic
+lang: nl
 date: '2009-06-27 21:50:38 +0200'
 mt_id: 917
 categories:

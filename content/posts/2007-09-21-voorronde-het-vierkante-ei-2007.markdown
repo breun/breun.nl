@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Voorronde Het Vierkante Ei 2007
+lang: nl
 date: '2007-09-21 22:24:05 +0200'
 mt_id: 874
 categories:

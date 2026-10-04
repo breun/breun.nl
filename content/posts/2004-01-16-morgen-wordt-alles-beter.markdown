@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Morgen wordt alles beter
+lang: nl
 date: '2004-01-16 01:51:57 +0100'
 mt_id: 556
 categories:

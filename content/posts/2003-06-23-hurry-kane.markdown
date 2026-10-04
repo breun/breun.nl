@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hurry, Kane!
+lang: nl
 date: '2003-06-23 16:57:41 +0200'
 mt_id: 485
 categories:

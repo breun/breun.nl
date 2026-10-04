@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Geen contact
+lang: nl
 date: '2003-05-30 17:36:00 +0200'
 mt_id: 477
 categories:

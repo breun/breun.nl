@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mugshot
+lang: nl
 date: '2006-06-01 14:30:16 +0200'
 mt_id: 778
 categories:

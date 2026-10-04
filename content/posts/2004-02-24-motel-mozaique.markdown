@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Motel Moza&iuml;que
+lang: nl
 date: '2004-02-24 22:34:17 +0100'
 mt_id: 568
 categories:

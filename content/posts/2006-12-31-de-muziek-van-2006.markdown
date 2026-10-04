@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De Muziek van 2006
+lang: nl
 date: '2006-12-31 14:07:07 +0100'
 mt_id: 829
 categories:

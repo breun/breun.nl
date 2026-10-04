@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stokjeszut
+lang: nl
 date: '2005-01-10 13:13:51 +0100'
 mt_id: 651
 categories:

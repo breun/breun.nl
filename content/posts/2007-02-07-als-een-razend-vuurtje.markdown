@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Als een razend vuurtje
+lang: nl
 date: '2007-02-07 12:01:39 +0100'
 mt_id: 837
 categories:

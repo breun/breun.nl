@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Growlified Tweet Deluxe
+lang: nl
 date: '2007-04-10 17:53:29 +0200'
 mt_id: 852
 categories:

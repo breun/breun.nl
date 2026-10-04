@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Club 3VOOR12/Utrecht 1 maart 2007
+lang: nl
 date: '2007-02-26 13:22:30 +0100'
 mt_id: 842
 categories:

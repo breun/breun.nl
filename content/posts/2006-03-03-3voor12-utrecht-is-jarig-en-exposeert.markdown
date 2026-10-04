@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3VOOR12/Utrecht is jarig en exposeert!
+lang: nl
 date: '2006-03-03 10:27:37 +0100'
 mt_id: 767
 categories:

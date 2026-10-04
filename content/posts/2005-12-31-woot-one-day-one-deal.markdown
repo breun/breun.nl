@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Woot: One Day, One Deal'
+lang: nl
 date: '2005-12-31 13:42:58 +0100'
 mt_id: 748
 categories:

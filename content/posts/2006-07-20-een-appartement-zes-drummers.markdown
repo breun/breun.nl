@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Een appartement, zes drummers
+lang: nl
 date: '2006-07-20 15:23:48 +0200'
 mt_id: 794
 categories:

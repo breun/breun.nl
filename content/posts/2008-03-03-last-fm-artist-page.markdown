@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Last.fm artist page
+lang: nl
 date: '2008-03-03 15:44:15 +0100'
 mt_id: 887
 categories:

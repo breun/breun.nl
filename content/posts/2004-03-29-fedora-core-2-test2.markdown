@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fedora Core 2 test2
+lang: nl
 date: '2004-03-29 17:19:16 +0200'
 mt_id: 583
 categories:

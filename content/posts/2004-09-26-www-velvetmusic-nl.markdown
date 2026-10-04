@@ -1,6 +1,7 @@
 ---
 layout: post
 title: www.velvetmusic.nl
+lang: nl
 date: '2004-09-26 20:24:57 +0200'
 mt_id: 626
 categories:

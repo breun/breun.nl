@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Heerlijk Helder Groen
+lang: nl
 date: '2004-10-08 00:57:11 +0200'
 mt_id: 628
 categories:

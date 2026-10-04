@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hee, voip je even mee?
+lang: nl
 date: '2006-01-17 19:26:21 +0100'
 mt_id: 755
 categories:

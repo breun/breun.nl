@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Camera Digitalis
+lang: nl
 date: '2004-08-02 12:07:40 +0200'
 mt_id: 617
 categories:

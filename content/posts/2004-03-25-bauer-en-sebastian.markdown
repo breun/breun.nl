@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bauer &amp; Sebastian
+lang: nl
 date: '2004-03-25 17:12:08 +0100'
 mt_id: 582
 categories:

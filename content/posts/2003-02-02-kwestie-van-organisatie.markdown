@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kwestie van organisatie
+lang: nl
 date: '2003-02-02 18:13:35 +0100'
 mt_id: 440
 categories:

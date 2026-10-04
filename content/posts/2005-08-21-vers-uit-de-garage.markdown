@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vers uit de garage
+lang: nl
 date: '2005-08-21 18:50:15 +0200'
 mt_id: 713
 categories:

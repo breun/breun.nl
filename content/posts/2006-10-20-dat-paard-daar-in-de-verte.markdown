@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dat paard daar in de verte
+lang: nl
 date: '2006-10-20 11:41:29 +0200'
 mt_id: 818
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Riverdistrict komt in actie
+lang: nl
 date: '2011-04-26 23:33:17 +0200'
 mt_id: 949
 categories:

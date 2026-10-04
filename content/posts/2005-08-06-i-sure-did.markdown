@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I sure did!
+lang: nl
 date: '2005-08-06 02:57:48 +0200'
 mt_id: 705
 categories:

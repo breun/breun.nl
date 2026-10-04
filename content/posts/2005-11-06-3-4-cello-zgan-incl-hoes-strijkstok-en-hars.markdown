@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3/4 cello z.g.a.n. incl. hoes, strijkstok en hars
+lang: nl
 date: '2005-11-06 20:27:38 +0100'
 mt_id: 732
 categories:

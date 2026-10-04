@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nederland mint de grasmaaier
+lang: nl
 date: '2004-02-02 19:35:06 +0100'
 mt_id: 562
 categories:

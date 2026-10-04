@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vakantiefoto's Californië
+lang: nl
 date: '2007-11-29 10:45:21 +0100'
 mt_id: 880
 categories:

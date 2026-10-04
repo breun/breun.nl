@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dagje MoMA
+lang: nl
 date: '2006-11-14 07:14:52 +0100'
 mt_id: 827
 categories:

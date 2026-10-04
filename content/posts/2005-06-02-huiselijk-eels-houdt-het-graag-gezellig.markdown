@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Huiselijk Eels houdt het graag gezellig
+lang: nl
 date: '2005-06-02 01:03:26 +0200'
 mt_id: 687
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Speed trials revisited
+lang: nl
 date: '2003-12-28 02:02:43 +0100'
 mt_id: 548
 categories:

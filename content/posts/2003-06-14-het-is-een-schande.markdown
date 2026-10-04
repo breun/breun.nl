@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Het is een schande!
+lang: nl
 date: '2003-06-14 16:10:39 +0200'
 mt_id: 482
 categories:

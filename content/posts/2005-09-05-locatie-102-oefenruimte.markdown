@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Locatie: 102 Oefenruimte'
+lang: nl
 date: '2005-09-05 16:18:40 +0200'
 mt_id: 716
 categories:

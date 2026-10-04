@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kip &amp; vel
+lang: nl
 date: '2003-11-12 01:18:15 +0100'
 mt_id: 534
 categories:

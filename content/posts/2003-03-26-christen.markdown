@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Christen
+lang: nl
 date: '2003-03-26 04:43:40 +0100'
 mt_id: 452
 categories:

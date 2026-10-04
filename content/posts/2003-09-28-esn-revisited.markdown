@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ESN revisited
+lang: nl
 date: '2003-09-28 16:41:53 +0200'
 mt_id: 518
 categories:

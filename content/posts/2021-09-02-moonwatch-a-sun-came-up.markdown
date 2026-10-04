@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moonwatch - A Sun Came Up
+lang: en
 ---
 
 Today my band [Moonwatch](https://moonwatch.band) released a video for our new song 'A Sun Came Up'.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zeg maar Harry
+lang: nl
 date: '2004-03-17 17:32:48 +0100'
 mt_id: 579
 categories:

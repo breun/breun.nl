@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Viva la revoluci&oacute;n!
+lang: nl
 date: '2003-07-09 00:18:17 +0200'
 mt_id: 493
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nabestaanden
+lang: nl
 date: '2004-05-05 00:16:43 +0200'
 mt_id: 597
 categories:

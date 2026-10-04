@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De postdienst, opa en doffer
+lang: nl
 date: '2003-06-27 15:06:24 +0200'
 mt_id: 486
 categories:

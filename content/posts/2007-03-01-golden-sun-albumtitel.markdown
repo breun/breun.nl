@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Golden Sun albumtitel
+lang: nl
 date: '2007-03-01 18:48:40 +0100'
 mt_id: 844
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moonwatch album release show January 27th, 2024
+lang: en
 ---
 
 At the end of May and early June this year, my band [Moonwatch](https://moonwatch.band) recorded 8 songs with [JJJ Sielcken](https://jjjsielcken.com) in his studio in Den Dolder.

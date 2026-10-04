@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tom McRae in Tivoli
+lang: nl
 date: '2005-10-31 00:53:34 +0100'
 mt_id: 729
 categories:

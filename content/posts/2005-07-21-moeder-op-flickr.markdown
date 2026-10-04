@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moeder op Flickr
+lang: nl
 date: '2005-07-21 13:51:58 +0200'
 mt_id: 700
 categories:

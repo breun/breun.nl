@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Supergratis!
+lang: nl
 date: '2004-06-29 12:41:13 +0200'
 mt_id: 610
 categories:

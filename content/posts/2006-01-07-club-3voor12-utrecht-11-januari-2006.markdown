@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Club 3VOOR12/Utrecht 11 januari 2006
+lang: nl
 date: '2006-01-07 16:51:29 +0100'
 mt_id: 750
 categories:

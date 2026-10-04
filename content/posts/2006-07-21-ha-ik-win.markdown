@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ha, ik win!
+lang: nl
 date: '2006-07-21 21:59:34 +0200'
 mt_id: 795
 categories:

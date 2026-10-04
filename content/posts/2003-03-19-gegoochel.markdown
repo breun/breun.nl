@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gegoochel
+lang: nl
 date: '2003-03-19 11:54:26 +0100'
 mt_id: 450
 categories:

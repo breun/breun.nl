@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Patenten, Software Schmatenten
+lang: nl
 date: '2005-06-22 11:50:10 +0200'
 mt_id: 690
 categories:

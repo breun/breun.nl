@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stille cello's
+lang: nl
 date: '2008-04-06 23:40:25 +0200'
 mt_id: 890
 categories:

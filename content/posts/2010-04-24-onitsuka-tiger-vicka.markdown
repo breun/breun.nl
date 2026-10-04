@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Onitsuka Tiger Vicka
+lang: nl
 date: '2010-04-24 19:33:55 +0200'
 mt_id: 933
 categories:

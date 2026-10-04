@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blue Velvet Underground
+lang: nl
 date: '2003-02-13 23:04:31 +0100'
 mt_id: 445
 categories:

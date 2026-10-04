@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De fragiele
+lang: nl
 date: '2003-02-09 16:40:55 +0100'
 mt_id: 444
 categories:

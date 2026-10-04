@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Merkwaardig
+lang: nl
 date: '2008-04-11 15:14:23 +0200'
 mt_id: 894
 categories:

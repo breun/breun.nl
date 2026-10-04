@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Je bent gekomen om te lachen om de blunder van de eeuw
+lang: nl
 date: '2004-07-13 12:20:25 +0200'
 mt_id: 615
 categories:

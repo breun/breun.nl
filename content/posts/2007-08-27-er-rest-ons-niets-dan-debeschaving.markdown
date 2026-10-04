@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Er rest ons niets dan deBeschaving
+lang: nl
 date: '2007-08-27 18:51:22 +0200'
 mt_id: 867
 categories:

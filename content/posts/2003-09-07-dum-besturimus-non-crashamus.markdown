@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dum besturimus non crashamus
+lang: nl
 date: '2003-09-07 23:34:36 +0200'
 mt_id: 513
 categories:

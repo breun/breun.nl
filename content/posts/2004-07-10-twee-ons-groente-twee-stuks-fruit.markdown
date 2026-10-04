@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Twee ons groente, twee stuks fruit
+lang: nl
 date: '2004-07-10 23:37:13 +0200'
 mt_id: 614
 categories:

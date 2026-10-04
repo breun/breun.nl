@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gezelligheid heeft geen tijd
+lang: nl
 date: '2003-07-14 00:39:40 +0200'
 mt_id: 495
 categories:

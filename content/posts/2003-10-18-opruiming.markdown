@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Opruiming
+lang: nl
 date: '2003-10-18 01:05:18 +0200'
 mt_id: 527
 categories:

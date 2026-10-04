@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De keizer en de bouwer
+lang: nl
 date: '2003-03-01 14:17:58 +0100'
 mt_id: 447
 categories:

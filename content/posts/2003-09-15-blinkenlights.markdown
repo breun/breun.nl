@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blinkenlights
+lang: nl
 date: '2003-09-15 02:55:29 +0200'
 mt_id: 516
 categories:

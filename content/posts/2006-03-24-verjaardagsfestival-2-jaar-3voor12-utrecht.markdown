@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Verjaardagsfestival 2 jaar 3VOOR12/Utrecht
+lang: nl
 date: '2006-03-24 21:25:20 +0100'
 mt_id: 771
 categories:

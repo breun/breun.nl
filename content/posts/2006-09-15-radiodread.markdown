@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Radiodread
+lang: nl
 date: '2006-09-15 19:07:06 +0200'
 mt_id: 813
 categories:

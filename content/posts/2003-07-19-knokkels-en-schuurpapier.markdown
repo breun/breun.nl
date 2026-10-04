@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Knokkels &amp; Schuurpapier
+lang: nl
 date: '2003-07-19 13:14:49 +0200'
 mt_id: 498
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zwaar en groot
+lang: nl
 date: '2003-11-16 03:04:45 +0100'
 mt_id: 535
 categories:

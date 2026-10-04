@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mijn oma werd 78
+lang: nl
 date: '2005-10-10 17:54:48 +0200'
 mt_id: 727
 categories:

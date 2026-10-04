@@ -1,6 +1,7 @@
 ---
 layout: post
 title: frappr.com/biton
+lang: nl
 date: '2005-11-25 23:50:15 +0100'
 mt_id: 738
 categories:

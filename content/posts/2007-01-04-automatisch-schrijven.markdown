@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automatisch Schrijven
+lang: nl
 date: '2007-01-04 01:29:34 +0100'
 mt_id: 830
 categories:

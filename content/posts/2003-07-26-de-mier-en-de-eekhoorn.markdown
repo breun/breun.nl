@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De mier en de eekhoorn
+lang: nl
 date: '2003-07-26 22:37:54 +0200'
 mt_id: 502
 categories:

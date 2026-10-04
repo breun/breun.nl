@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moonwatch - Refraction EP
+lang: nl
 ---
 
 In december 2019 was ik met mijn band [Moonwatch](https://moonwatch.band) en een crew van producers en engineers van [Volver Sound Academy](http://volversoundacademy.nl) tien dagen lang in de [GAM Studio](https://www.gamstudios.com) in België.

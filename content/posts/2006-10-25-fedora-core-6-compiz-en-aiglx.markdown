@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Fedora Core 6: Compiz en AIGLX'
+lang: nl
 date: '2006-10-25 13:13:00 +0200'
 mt_id: 821
 categories:

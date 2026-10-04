@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Singles kopen
+lang: nl
 date: '2007-10-02 14:31:11 +0200'
 mt_id: 875
 categories:

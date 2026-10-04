@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The NY Times, they are a-changin'
+lang: nl
 date: '2004-12-17 13:46:29 +0100'
 mt_id: 647
 categories:

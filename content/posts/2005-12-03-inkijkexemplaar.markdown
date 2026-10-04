@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Inkijkexemplaar
+lang: nl
 date: '2005-12-03 22:24:57 +0100'
 mt_id: 743
 categories:

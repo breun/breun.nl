@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nils & Pim voor U&MI
+lang: nl
 date: '2005-05-11 16:18:28 +0200'
 mt_id: 683
 categories:

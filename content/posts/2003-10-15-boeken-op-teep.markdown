@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Boeken op teep
+lang: nl
 date: '2003-10-15 03:51:48 +0200'
 mt_id: 524
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dat zegmaar
+lang: nl
 date: '2004-02-20 23:25:15 +0100'
 mt_id: 566
 categories:

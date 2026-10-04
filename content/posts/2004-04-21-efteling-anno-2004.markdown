@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Efteling anno 2004
+lang: nl
 date: '2004-04-21 22:37:42 +0200'
 mt_id: 591
 categories:

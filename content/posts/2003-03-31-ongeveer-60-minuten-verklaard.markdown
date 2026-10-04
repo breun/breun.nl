@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '''Ongeveer 60 minuten'' verklaard'
+lang: nl
 date: '2003-03-31 01:16:26 +0200'
 mt_id: 456
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eternale zonneschijn op je spotloze kop
+lang: nl
 date: '2004-09-24 00:58:01 +0200'
 mt_id: 623
 categories:

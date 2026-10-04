@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vladimir in Club 3VOOR12
+lang: nl
 date: '2005-10-04 13:29:10 +0200'
 mt_id: 726
 categories:

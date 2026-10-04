@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wynnen, wynnen, wynnen!
+lang: nl
 date: '2003-05-26 15:59:56 +0200'
 mt_id: 476
 categories:

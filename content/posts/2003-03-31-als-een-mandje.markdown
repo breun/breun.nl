@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Als een mandje
+lang: nl
 date: '2003-03-31 18:26:01 +0200'
 mt_id: 457
 categories:

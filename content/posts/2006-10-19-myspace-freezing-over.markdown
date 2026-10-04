@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MySpace freezing over
+lang: nl
 date: '2006-10-19 11:57:42 +0200'
 mt_id: 817
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Twitter chatlog Dour 2007
+lang: nl
 date: '2007-07-18 15:15:26 +0200'
 mt_id: 862
 categories:

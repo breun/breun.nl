@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Van uitstel komt geen opstel
+lang: nl
 date: '2003-02-05 23:50:18 +0100'
 mt_id: 443
 categories:

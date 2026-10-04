@@ -1,5 +1,14 @@
 <!DOCTYPE html>
-<html>
+{{- $lang := "" -}}
+{{- if and .IsPage (eq .Section "posts") -}}
+  {{- if not .Params.lang -}}
+    {{- errorf "Post %q is missing required 'lang' parameter in front matter" .File.Path -}}
+  {{- end -}}
+  {{- $lang = .Params.lang -}}
+{{- else -}}
+  {{- $lang = .Params.lang | default site.Language.Lang | default "en" -}}
+{{- end -}}
+<html lang="{{ $lang }}">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">

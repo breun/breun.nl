@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eerst kus, dan lach
+lang: nl
 date: '2005-04-25 11:55:43 +0200'
 mt_id: 679
 categories:

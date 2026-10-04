@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wanna see Ben Folds in Europe?
+lang: nl
 date: '2004-05-14 04:21:29 +0200'
 mt_id: 600
 categories:

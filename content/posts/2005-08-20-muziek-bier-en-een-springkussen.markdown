@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Muziek, bier en een springkussen
+lang: nl
 date: '2005-08-20 21:04:51 +0200'
 mt_id: 712
 categories:

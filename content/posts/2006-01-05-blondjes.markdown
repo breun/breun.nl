@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blondjes
+lang: nl
 date: '2006-01-05 16:20:13 +0100'
 mt_id: 749
 categories:

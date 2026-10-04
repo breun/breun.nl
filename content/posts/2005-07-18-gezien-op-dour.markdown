@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gezien op Dour 2005
+lang: nl
 date: '2005-07-18 19:52:33 +0200'
 mt_id: 698
 categories:

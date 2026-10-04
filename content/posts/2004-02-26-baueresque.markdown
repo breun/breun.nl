@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Baueresque
+lang: nl
 date: '2004-02-26 18:39:27 +0100'
 mt_id: 569
 categories:

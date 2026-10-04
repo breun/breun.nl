@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Doe maar duur
+lang: nl
 date: '2003-11-21 22:19:16 +0100'
 mt_id: 538
 categories:

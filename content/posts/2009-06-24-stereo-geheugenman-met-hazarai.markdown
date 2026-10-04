@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stereo Geheugenman met Hazarai
+lang: nl
 date: '2009-06-24 16:08:16 +0200'
 mt_id: 916
 categories:

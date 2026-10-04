@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De boom van de buren
+lang: nl
 date: '2004-02-01 21:30:32 +0100'
 mt_id: 561
 categories:

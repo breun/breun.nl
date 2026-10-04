@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vet beschaafd
+lang: nl
 date: '2005-08-11 00:42:12 +0200'
 mt_id: 707
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fedora Core 3
+lang: nl
 date: '2004-11-08 22:48:15 +0100'
 mt_id: 640
 categories:

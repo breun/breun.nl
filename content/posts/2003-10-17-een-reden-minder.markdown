@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Een reden minder
+lang: nl
 date: '2003-10-17 22:58:48 +0200'
 mt_id: 526
 categories:

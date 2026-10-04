@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Aan de muur bij Aal
+lang: nl
 date: '2006-03-28 18:48:26 +0200'
 mt_id: 774
 categories:

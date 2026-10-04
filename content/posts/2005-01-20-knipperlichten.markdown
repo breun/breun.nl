@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Knipperlichten
+lang: nl
 date: '2005-01-20 20:07:56 +0100'
 mt_id: 654
 categories:

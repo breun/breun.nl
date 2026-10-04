@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gratis Linux drivers!
+lang: nl
 date: '2007-01-30 15:16:59 +0100'
 mt_id: 835
 categories:

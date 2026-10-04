@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ik háát Windows
+lang: nl
 date: '2006-03-27 20:42:56 +0200'
 mt_id: 772
 categories:

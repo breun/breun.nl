@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Make love, not sudoku
+lang: nl
 date: '2006-10-26 20:01:55 +0200'
 mt_id: 822
 categories:

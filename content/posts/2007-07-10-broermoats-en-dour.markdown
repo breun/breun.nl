@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Broermoats en Dour
+lang: nl
 date: '2007-07-10 13:58:24 +0200'
 mt_id: 859
 categories:

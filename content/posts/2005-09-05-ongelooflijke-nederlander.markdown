@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ongelooflijke Nederlander!
+lang: nl
 date: '2005-09-05 16:14:12 +0200'
 mt_id: 715
 categories:

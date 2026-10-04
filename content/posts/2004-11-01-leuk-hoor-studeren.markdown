@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Leuk hoor, studeren
+lang: nl
 date: '2004-11-01 21:28:33 +0100'
 mt_id: 638
 categories:

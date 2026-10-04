@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Commandocentrum
+lang: nl
 date: '2004-04-17 04:22:30 +0200'
 mt_id: 590
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Add a tap tempo connector to your Boss RE-20 Space Echo
+lang: en
 ---
 
 ![Modified Boss RE-20 units](https://raw.githubusercontent.com/breun/boss-re-20-external-tap-tempo-mod/main/images/RE-20%20units%20with%20external%20tap%20tempo%20mod.HEIC){: width="750" }

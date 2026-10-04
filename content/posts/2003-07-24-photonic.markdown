@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Photonic
+lang: nl
 date: '2003-07-24 14:43:04 +0200'
 mt_id: 501
 categories:

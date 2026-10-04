@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dansen of dansen?
+lang: nl
 date: '2006-06-26 16:34:51 +0200'
 mt_id: 788
 categories:

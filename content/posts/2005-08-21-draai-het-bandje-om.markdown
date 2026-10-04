@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Draai het bandje om
+lang: nl
 date: '2005-08-21 23:06:43 +0200'
 mt_id: 714
 categories:

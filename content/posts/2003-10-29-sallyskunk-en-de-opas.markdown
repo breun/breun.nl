@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SallySkunk en de opa's
+lang: nl
 date: '2003-10-29 21:26:49 +0100'
 mt_id: 532
 categories:

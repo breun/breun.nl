@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vlieg naar El Salvador
+lang: nl
 date: '2003-05-31 12:43:23 +0200'
 mt_id: 478
 categories:

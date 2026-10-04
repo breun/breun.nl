@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De hemel is opengegaan...
+lang: nl
 date: '2006-05-19 15:11:22 +0200'
 mt_id: 776
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kak, wat mooi
+lang: nl
 date: '2005-09-07 21:24:12 +0200'
 mt_id: 717
 categories:

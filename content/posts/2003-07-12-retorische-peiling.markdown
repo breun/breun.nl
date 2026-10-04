@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Retorische peiling
+lang: nl
 date: '2003-07-12 01:18:47 +0200'
 mt_id: 494
 categories:

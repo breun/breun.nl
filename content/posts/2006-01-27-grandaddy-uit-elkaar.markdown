@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Grandaddy uit elkaar?
+lang: nl
 date: '2006-01-27 17:30:41 +0100'
 mt_id: 757
 categories:

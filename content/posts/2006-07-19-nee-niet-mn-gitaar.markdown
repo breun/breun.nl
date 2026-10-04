@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nee, niet m'n gitaar!
+lang: nl
 date: '2006-07-19 17:20:53 +0200'
 mt_id: 792
 categories:

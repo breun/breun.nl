@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Loose Change (2nd edition)
+lang: nl
 date: '2006-10-23 15:17:02 +0200'
 mt_id: 820
 categories:

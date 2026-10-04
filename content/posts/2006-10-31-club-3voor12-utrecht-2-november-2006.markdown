@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Club 3VOOR12/Utrecht 2 november 2006
+lang: nl
 date: '2006-10-31 15:11:34 +0100'
 mt_id: 823
 categories:

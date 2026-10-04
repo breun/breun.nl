@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Omgekeerde wereld
+lang: nl
 date: '2003-11-20 10:34:38 +0100'
 mt_id: 536
 categories:

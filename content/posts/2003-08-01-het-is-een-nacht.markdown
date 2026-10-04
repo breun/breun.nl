@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Het is een nacht
+lang: nl
 date: '2003-08-01 04:13:00 +0200'
 mt_id: 503
 categories:

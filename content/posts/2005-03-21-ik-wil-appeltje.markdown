@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ik wil appeltje
+lang: nl
 date: '2005-03-21 00:06:32 +0100'
 mt_id: 667
 categories:

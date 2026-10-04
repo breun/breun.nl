@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Muziekboot
+lang: nl
 date: '2004-02-16 00:22:43 +0100'
 mt_id: 565
 categories:

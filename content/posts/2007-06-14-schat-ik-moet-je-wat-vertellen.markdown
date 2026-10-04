@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Schat, ik moet je wat vertellen
+lang: nl
 date: '2007-06-14 22:30:35 +0200'
 mt_id: 856
 categories:

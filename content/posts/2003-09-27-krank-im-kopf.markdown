@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Krank im Kopf
+lang: nl
 date: '2003-09-27 23:54:39 +0200'
 mt_id: 517
 categories:

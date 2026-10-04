@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NEN - The Sound of the Millennium (1999)
+lang: nl
 ---
 
 In de jaren 90 speelde ik gitaar en luisterde ik naar gitaarmuziek.

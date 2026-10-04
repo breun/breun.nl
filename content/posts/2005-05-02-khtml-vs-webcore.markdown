@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KHTML vs WebCore
+lang: nl
 date: '2005-05-02 00:48:04 +0200'
 mt_id: 681
 categories:

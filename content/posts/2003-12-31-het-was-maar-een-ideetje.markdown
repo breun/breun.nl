@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Het was maar een ideetje
+lang: nl
 date: '2003-12-31 01:19:28 +0100'
 mt_id: 550
 categories:

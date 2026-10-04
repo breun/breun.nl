@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Het begint weer te gieren
+lang: nl
 date: '2003-03-27 01:34:47 +0100'
 mt_id: 453
 categories:

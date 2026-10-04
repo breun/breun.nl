@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekendje Antwerpen anno 2006
+lang: nl
 date: '2006-10-09 17:26:59 +0200'
 mt_id: 815
 categories:

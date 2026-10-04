@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gnome 2.12 preview
+lang: nl
 date: '2005-07-31 15:30:58 +0200'
 mt_id: 702
 categories:
