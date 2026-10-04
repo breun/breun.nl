@@ -40,9 +40,9 @@
     <body>
         <header>
             {{ if .IsHome }}
-            <h1 class="title"><a href="/">{{ site.Title }}</a> <span class="subtitle">Ask yourself: &ldquo;What am I doing here?&rdquo;</span></h1>
+            <h1 class="title"><a href="/">{{ site.Title }}</a> <span class="subtitle">{{ site.Params.subtitle }}</span></h1>
             {{ else }}
-            <div class="title"><a href="/">{{ site.Title }}</a> <span class="subtitle">Ask yourself: &ldquo;What am I doing here?&rdquo;</span></div>
+            <div class="title"><a href="/">{{ site.Title }}</a> <span class="subtitle">{{ site.Params.subtitle }}</span></div>
             {{ end }}
 
             <div class="contact">
@@ -80,7 +80,7 @@
         {{ block "main" . }}{{ .Content }}{{ end }}
 
         <footer>
-            &copy; Nils Breunese
+            &copy; {{ now.Format "2006" }} {{ site.Params.author }}
         </footer>
     </body>
 </html>

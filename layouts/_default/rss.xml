@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.Title }}</title>
-    <description>{{ site.Params.description | default "" }}</description>
+    <description>{{ site.Params.description | default site.Params.subtitle }}</description>
     <link>{{ site.BaseURL }}</link>
     <atom:link href="{{ "feed.xml" | absURL }}" rel="self" type="application/rss+xml" />
     {{- range first 10 (where site.RegularPages "Section" "posts") }}
