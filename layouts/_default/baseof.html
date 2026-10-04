@@ -26,10 +26,12 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css" type="text/css">
+        {{ $syntax := resources.Get "css/syntax.css" | minify | fingerprint }}
+        <link rel="stylesheet" href="{{ $syntax.RelPermalink }}" integrity="{{ $syntax.Data.Integrity }}" crossorigin="anonymous">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css" type="text/css">
+        {{ $main := resources.Get "css/main.css" | minify | fingerprint }}
+        <link rel="stylesheet" href="{{ $main.RelPermalink }}" integrity="{{ $main.Data.Integrity }}" crossorigin="anonymous">
 
         <!-- Webfonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fenix&family=Cherry+Swash:wght@700&display=swap" type="text/css">
