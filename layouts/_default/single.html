@@ -7,7 +7,7 @@
     </header>
     {{ .Content }}
   </article>
-  <nav class="post">
+  <nav class="post" aria-label="Post navigation">
     {{ with .PrevInSection }}
     &laquo; <a rel="prev" href="{{ .RelPermalink }}">{{ .Title }}</a>
     {{ end }}
