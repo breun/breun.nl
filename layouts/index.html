@@ -1,4 +1,7 @@
 {{ define "main" }}
+<section class="contact-section">
+    {{ partial "contact.html" . }}
+</section>
 <nav class="posts" aria-label="Recent posts">
   <ul>
     {{ range where site.RegularPages "Section" "posts" }}
