@@ -8,4 +8,4 @@ categories:
 ---
 <a href="http://www.madtv.com/">MADtv</a> maakte een grappig filmpje over wat nieuwe Apple producten.
 
-{% include youtube.html id="xcjLEwZqcQI" title="Apple presents the iRack" %}
+{{< youtube id="xcjLEwZqcQI" title="Apple presents the iRack" >}}

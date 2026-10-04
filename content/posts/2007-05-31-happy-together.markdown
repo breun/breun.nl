@@ -8,4 +8,4 @@ categories:
 ---
 Nieske en ik gaan over een paar maanden samenwonen!
 
-{% include youtube.html id="9ZEURntrQOg" title="Happy Together - The Turtles (1967)" %}
+{{< youtube id="9ZEURntrQOg" title="Happy Together - The Turtles (1967)" >}}

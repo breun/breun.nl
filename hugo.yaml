@@ -1,0 +1,47 @@
+baseURL: "https://breun.nl/"
+title: "breun"
+locale: "nl-NL"
+defaultContentLanguage: "nl"
+uglyURLs: true
+
+security:
+  allowContent:
+    - ".*"
+
+# Extract date from filename if missing from front matter
+frontmatter:
+  date:
+    - ":filename"
+    - "date"
+    - "publishDate"
+
+# Match Jekyll URL scheme /:year/:month/:title.html
+permalinks:
+  posts: /:year/:month/:slug
+
+# Disable taxonomy pages if not used on the live site
+disableKinds:
+  - taxonomy
+  - term
+
+# Custom RSS output file matching feed.xml
+outputFormats:
+  RSS:
+    baseName: "feed"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+  page:
+    - HTML
+  section: []
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  subtitle: 'Ask yourself: "What am I doing here?"'
+  author: "Nils Breunese"

@@ -1,0 +1,9 @@
+{{ define "main" }}
+<nav class="posts">
+  <ul>
+    {{ range where site.RegularPages "Section" "posts" }}
+    <li><span>{{ .Date.Format "2006-01-02" }}</span> &raquo; <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}

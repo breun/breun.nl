@@ -35,8 +35,8 @@ And come see us live if you can! Check [here](https://thistlesifter.com/live) fo
 
 And here are the videos for the three singles that are out now.
 
-{% include youtube.html id="D7F-zEFDavQ" title="One Fleeting Glance" %}
+{{< youtube id="D7F-zEFDavQ" title="One Fleeting Glance" >}}
 
-{% include youtube.html id="ceEUDpjDLvw" title="Ghost Acres" %}
+{{< youtube id="ceEUDpjDLvw" title="Ghost Acres" >}}
 
-{% include youtube.html id="j0tr97l6gTw" title="Forever the Optimist" %}
+{{< youtube id="j0tr97l6gTw" title="Forever the Optimist" >}}

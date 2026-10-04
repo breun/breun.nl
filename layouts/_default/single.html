@@ -1,0 +1,22 @@
+{{ define "main" }}
+<main>
+  <article>
+    <header>
+      <h1>{{ .Title }}</h1>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "2 January 2006" .Date }}</time>
+    </header>
+    {{ .Content }}
+  </article>
+  <nav class="post">
+    {{ with .PrevInSection }}
+    &laquo; <a rel="prev" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
+    {{ if and .PrevInSection .NextInSection }}
+    &mdash;
+    {{ end }}
+    {{ with .NextInSection }}
+    <a rel="next" href="{{ .RelPermalink }}">{{ .Title }}</a> &raquo;
+    {{ end }}
+  </nav>
+</main>
+{{ end }}
