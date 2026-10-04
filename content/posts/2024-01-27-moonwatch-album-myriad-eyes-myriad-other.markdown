@@ -4,7 +4,7 @@ title: Moonwatch album Myriad Eyes \ Myriad Other out now!
 lang: en
 ---
 
-![Moonwatch MEMO album cover](/images/Myriad%20Eyes%20%20Myriad%20Other%20-%20cover%20small.png){: width="750" }
+<img src="/images/Myriad%20Eyes%20%20Myriad%20Other%20-%20cover%20small.png" alt="Moonwatch MEMO album cover" width="750" />
 
 In 2023 my band [Moonwatch](https://moonwatch.band) recorded 8 songs with [JJJ Sielcken](https://jjjsielcken.com) in his studio in Den Dolder.
 And today we had a sold-out release show at De Nijverheid in Utrecht, together with our friends from [Thistle Sifter](https://www.thistlesifter.com)! 
@@ -20,4 +20,4 @@ Stream the full album online via [Spotify](https://open.spotify.com/album/5t8n09
 
 You can also get the album on a physical cd at [Plato Utrecht](https://www.platomania.nl/article/14203500/myriad_eyes_myriad_other/moonwatch), via [Bandcamp](https://moonwatch.bandcamp.com/album/myriad-eyes-myriad-other), or send me a message for the best deal.
 
-![Moonwatch cd](/images/Moonwatch_MEMO_cd.jpeg){: width="750" }
+<img src="/images/Moonwatch_MEMO_cd.jpeg" alt="Moonwatch cd" width="750" />

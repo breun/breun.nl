@@ -4,7 +4,7 @@ title: Add a tap tempo connector to your Boss RE-20 Space Echo
 lang: en
 ---
 
-![Modified Boss RE-20 units](https://raw.githubusercontent.com/breun/boss-re-20-external-tap-tempo-mod/main/images/RE-20%20units%20with%20external%20tap%20tempo%20mod.HEIC){: width="750" }
+<img src="https://raw.githubusercontent.com/breun/boss-re-20-external-tap-tempo-mod/main/images/RE-20%20units%20with%20external%20tap%20tempo%20mod.HEIC" alt="Modified Boss RE-20 units" width="750" />
 
 I love delay pedals.
 I currently have five delay pedals on the pedal board for my band [Moonwatch](https://moonwatch.band), and I usually use multiple delay pedals simultaneously.
