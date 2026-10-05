@@ -1,0 +1,68 @@
+# https://gohugo.io/configuration/all/#baseurl
+baseURL: "https://breun.nl/"
+
+# https://gohugo.io/configuration/all/#title
+title: "breun"
+
+# https://gohugo.io/configuration/all/#locale
+locale: "en-US"
+
+# Include .html in URL: https://gohugo.io/configuration/ugly-urls/
+uglyURLs: true
+
+# Disable unused page kinds: https://gohugo.io/configuration/all/#disablekinds
+disableKinds:
+  - taxonomy
+  - term
+
+# https://gohugo.io/configuration/build/
+build:
+  # https://gohugo.io/configuration/build/#clean-destination-directory
+  cleanDestinationDir:
+    # Clean the public directory before rendering the site: https://gohugo.io/configuration/build/#enable-1
+    enable: true
+
+# https://gohugo.io/configuration/minify/
+minify:
+  minifyOutput: true
+
+security:
+  # https://gohugo.io/configuration/security/#allowcontent
+  allowContent:
+    - "^text/markdown$"
+    - "^text/html$"
+
+# Extract date from filename if missing from front matter
+# https://gohugo.io/configuration/front-matter/
+frontmatter:
+  date:
+    - ":filename"
+    - date
+    - publishDate
+
+# https://gohugo.io/configuration/permalinks/
+permalinks:
+  posts: "/:year/:month/:slug"
+
+# https://gohugo.io/configuration/output-formats/
+outputFormats:
+  # Custom RSS output file matching feed.xml
+  RSS:
+    baseName: "feed"
+
+# https://gohugo.io/configuration/outputs/
+outputs:
+  section: []
+
+# https://gohugo.io/configuration/markup/
+markup:
+  # https://gohugo.io/configuration/markup/#goldmark
+  goldmark:
+    renderer:
+      # Allow HTML mixed within Markdown: https://gohugo.io/configuration/markup/#rendererunsafe
+      unsafe: true
+
+# https://gohugo.io/configuration/params/
+params:
+  subtitle: 'Ask yourself: "What am I doing here?"'
+  author: "Nils Breunese"
