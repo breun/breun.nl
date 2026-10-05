@@ -11,7 +11,7 @@ And today we had a sold-out release show at De Nijverheid in Utrecht, together w
 
 Check out the video for Lūmen:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xnlJhhpedwg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="xnlJhhpedwg" title="Moonwatch - Lūmen" >}}
 
 I'm pretty proud of this record.
 It's spacey, it's moody, it's vibey, it's joyful and at some point in Disorder we strip the paint from your walls.

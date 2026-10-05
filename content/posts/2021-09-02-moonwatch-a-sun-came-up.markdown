@@ -10,4 +10,4 @@ If you [sign up for the Moonwatch newsletter](https://tinyletter.com/moonwatch) 
 
 Here's the video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sESwaH5IX5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="sESwaH5IX5I" >}}

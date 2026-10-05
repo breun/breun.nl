@@ -9,13 +9,10 @@
   </article>
   <nav class="post" aria-label="Post navigation">
     {{ with .PrevInSection }}
-    &laquo; <a rel="prev" href="{{ .RelPermalink }}">{{ .Title }}</a>
-    {{ end }}
-    {{ if and .PrevInSection .NextInSection }}
-    &mdash;
+    <span class="prev">&laquo; <a rel="prev" href="{{ .RelPermalink }}">{{ .Title }}</a></span>
     {{ end }}
     {{ with .NextInSection }}
-    <a rel="next" href="{{ .RelPermalink }}">{{ .Title }}</a> &raquo;
+    <span class="next"><a rel="next" href="{{ .RelPermalink }}">{{ .Title }}</a> &raquo;</span>
     {{ end }}
   </nav>
 </main>

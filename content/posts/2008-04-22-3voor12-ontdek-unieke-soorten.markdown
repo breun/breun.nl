@@ -11,16 +11,16 @@ Op 15 mei bestaat <a href="http://3voor12.vpro.nl/">VPRO's 3VOOR12</a> 10 jaar e
 
 De Trek naar het Zuiden (met <a href="http://www.voicst.com/">Voicst</a>)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j3GSLr_6Etk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="j3GSLr_6Etk" >}}
 
 De Jager (met <a href="http://www.djpromo.nl/">DJ Promo</a>)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h4WdYQWS_K4?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="h4WdYQWS_K4" >}}
 
 De Drinkplaats (met <a href="http://www.gemmusic.nl/">GEM</a>)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uIYbnb9eDSo?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="uIYbnb9eDSo" >}}
 
 Unieke Geluiden (met <a href="http://www.ourmindstate.com/">Pete Philly & Perquisite</a>)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_atKxU2eIII?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="_atKxU2eIII" >}}

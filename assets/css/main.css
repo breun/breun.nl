@@ -209,6 +209,20 @@ footer {
 
 nav.post {
   margin-top: 2em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em 2rem;
+}
+
+nav.post .next {
+  margin-left: auto;
+  text-align: right;
+}
+
+nav.post .prev,
+nav.post .next {
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
 /* standard */
@@ -257,9 +271,9 @@ article pre.terminal code {
 /*****************************************************************************/
 
 .youtube-container {
-  width: 100%;
+  width: clamp(280px, 90%, 560px);
   aspect-ratio: 16 / 9;
-  margin: 1rem 0;
+  margin: 1rem auto;
 }
 
 .youtube-container iframe {

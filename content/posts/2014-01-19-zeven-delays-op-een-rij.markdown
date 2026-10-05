@@ -5,7 +5,7 @@ lang: nl
 categories:
 - muziek
 ---
-<iframe width="560" height="315" src="//www.youtube.com/embed/ZjTJRG_yPYc" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="ZjTJRG_yPYc" >}}
 
 Ik maakte gisteren een filmpje van mijn delaypedalen:
 

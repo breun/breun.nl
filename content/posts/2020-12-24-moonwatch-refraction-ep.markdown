@@ -13,8 +13,8 @@ Onze _Refraction EP_ is te vinden op je favoriete muziekplatform en is ook pay-w
 
 Voor de eerste twee nummers hebben we ook video's gemaakt.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vuMxCRZ43vY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="vuMxCRZ43vY" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7MJwu36buc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="O7MJwu36buc" >}}
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=496263388/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://moonwatch.bandcamp.com/album/refraction-ep">Refraction EP by Moonwatch</a></iframe>
